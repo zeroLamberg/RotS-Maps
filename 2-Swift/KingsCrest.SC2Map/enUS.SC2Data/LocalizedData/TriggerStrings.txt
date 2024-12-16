@@ -1,0 +1,33 @@
+﻿Category/Name/28807812=== DATA HOOKUPS ==
+Category/Name/5E619909=== INITIALIZATION ==
+Category/Name/822400F0=== DATA HOOKUPS ==
+Trigger/Name/228EDE9A=Hookup Jungle Creep Data
+Trigger/Name/31BB43DD=Hookup Lane Data
+Trigger/Name/35377829=Hookup Region Data
+Trigger/Name/361836BB=Hookup Global Variables
+Trigger/Name/3DEBFC54=Hookup Global Variables
+Trigger/Name/47C9E316=Hookup Lane Data
+Trigger/Name/60DBF921=Initialize Map Mechanic
+Trigger/Name/7265D806=Initialize Minions
+Trigger/Name/9EBEFD2B=Initialize Visibility Revealers
+Trigger/Name/A5ACCF9F=Hookup Jungle Creep Data
+Trigger/Name/A92FA900=Hookup Region Data
+Trigger/Name/A997AAFD=Hookup Town Data
+Trigger/Name/BBBAF38E=Initialize Map
+Trigger/Name/EE242F31=Map Mechanic Intro Callback
+Trigger/Name/FA4B29FB=Initialize Map
+Trigger/Name/FA4FE7B8=Hookup Town Data
+Variable/Name/032873ED=Team
+Variable/Name/1CF6035C=Town
+Variable/Name/2457928E=Waypoint Count
+Variable/Name/26EF7B16=Structure Count
+Variable/Name/47F4D392=LaneTownIndex
+Variable/Name/786AA062=TownIndexes
+Variable/Name/88AF977F=Waypoint Count
+Variable/Name/9A4F7824=Lane
+Variable/Name/A905474C=Spawn Points
+Variable/Name/AE646E2C=Lane
+Variable/Name/B09C6750=Town
+Variable/Name/B2E4583A=Structure Count
+Variable/Name/CEF1DFD3=jungle camp
+Variable/Name/D87510AE=jungle camp

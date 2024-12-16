@@ -1,0 +1,363 @@
+//==================================================================================================
+// 
+// Generated Map Script
+// 
+// Name:   RotS (KingsCrest)
+// 
+//==================================================================================================
+include "TriggerLibs/NativeLib"
+include "LibCore"
+include "LibGame"
+include "LibMapM"
+
+//--------------------------------------------------------------------------------------------------
+// Library Initialization
+//--------------------------------------------------------------------------------------------------
+void InitLibs () {
+    libNtve_InitLib();
+    libCore_InitLib();
+    libGame_InitLib();
+    libMapM_InitLib();
+}
+
+//--------------------------------------------------------------------------------------------------
+// Trigger Variables
+//--------------------------------------------------------------------------------------------------
+trigger gt_InitializeMap;
+trigger gt_InitializeMinions;
+trigger gt_HookupGlobalVariables;
+trigger gt_HookupJungleCreepData;
+trigger gt_HookupLaneData;
+trigger gt_HookupRegionData;
+trigger gt_HookupTownData;
+
+//--------------------------------------------------------------------------------------------------
+// Trigger: Initialize Map
+//--------------------------------------------------------------------------------------------------
+bool gt_InitializeMap_Func (bool testConds, bool runActions) {
+    // Automatic Variable Declarations
+    // Actions
+    if (!runActions) {
+        return true;
+    }
+
+    TriggerExecute(gt_InitializeMinions, true, false);
+    TriggerExecute(gt_HookupGlobalVariables, true, false);
+    TriggerExecute(gt_HookupLaneData, true, false);
+    TriggerExecute(gt_HookupJungleCreepData, true, false);
+    TriggerExecute(gt_HookupTownData, true, false);
+    TriggerExecute(gt_HookupRegionData, true, false);
+    libCore_gv_sYSTowns = true;
+    libCore_gv_sYSJungleCreepCamps = true;
+    libCore_gv_sYSJungleWatchTowers = true;
+    libCore_gv_sYSTowerAI = true;
+    libCore_gv_sYSMinionAI = true;
+    if ((GameIsOnline() == false) && (GameIsTransitionMap() == false)) {
+        libCore_gv_sYSForceManualMapLaunch = true;
+        libGame_gf_MTMLSetGameOption(libCore_ge_GameOptions_Sandbox, true);
+        libGame_gf_MTMLSetGameOption(libCore_ge_GameOptions_Preloading, true);
+        libGame_gf_MTMLForceMapDataIndex(libCore_ge_MAPMap_KingsCrest, libCore_ge_GameModes_Normal, libCore_ge_GameMutators_None);
+    }
+
+    TriggerExecute(libCore_gt_InitializeGameMod, true, true);
+    return true;
+}
+
+//--------------------------------------------------------------------------------------------------
+void gt_InitializeMap_Init () {
+    gt_InitializeMap = TriggerCreate("gt_InitializeMap_Func");
+    TriggerAddEventMapInit(gt_InitializeMap);
+}
+
+//--------------------------------------------------------------------------------------------------
+// Trigger: Initialize Minions
+//--------------------------------------------------------------------------------------------------
+bool gt_InitializeMinions_Func (bool testConds, bool runActions) {
+    // Automatic Variable Declarations
+    // Actions
+    if (!runActions) {
+        return true;
+    }
+
+    libCore_gf_DataInitializeMinion("FootmanMinion", libCore_ge_MinionType_Footmen, 3, libGame_gv_teamOrderIndex_C);
+    libCore_gf_DataInitializeMinion("FootmanMinion", libCore_ge_MinionType_Footmen, 3, libGame_gv_teamChaosIndex_C);
+    libCore_gf_DataInitializeMinion("WizardMinion", libCore_ge_MinionType_Wizard, 1, libGame_gv_teamOrderIndex_C);
+    libCore_gf_DataInitializeMinion("WizardMinion", libCore_ge_MinionType_Wizard, 1, libGame_gv_teamChaosIndex_C);
+    libCore_gf_DataInitializeMinion("RangedMinion", libCore_ge_MinionType_Ranged, 3, libGame_gv_teamOrderIndex_C);
+    libCore_gf_DataInitializeMinion("RangedMinion", libCore_ge_MinionType_Ranged, 3, libGame_gv_teamChaosIndex_C);
+    libCore_gf_DataInitializeMinion("CatapultMinion", libCore_ge_MinionType_Catapult, 1, libGame_gv_teamOrderIndex_C);
+    libCore_gf_DataInitializeMinion("CatapultMinion", libCore_ge_MinionType_Catapult, 1, libGame_gv_teamChaosIndex_C);
+    return true;
+}
+
+//--------------------------------------------------------------------------------------------------
+void gt_InitializeMinions_Init () {
+    gt_InitializeMinions = TriggerCreate("gt_InitializeMinions_Func");
+}
+
+//--------------------------------------------------------------------------------------------------
+// Trigger: Hookup Global Variables
+//--------------------------------------------------------------------------------------------------
+bool gt_HookupGlobalVariables_Func (bool testConds, bool runActions) {
+    // Automatic Variable Declarations
+    // Actions
+    if (!runActions) {
+        return true;
+    }
+
+    libCore_gv_mAPMapStringID = "KingsCrest";
+    libGame_gv_teams[libGame_gv_teamOrderIndex_C].lv_core = UnitFromId(154);
+    libGame_gv_teams[libGame_gv_teamChaosIndex_C].lv_core = UnitFromId(918);
+    libGame_gv_teams[libGame_gv_teamOrderIndex_C].lv_baseRegion = RegionFromId(5);
+    libGame_gv_teams[libGame_gv_teamChaosIndex_C].lv_baseRegion = RegionFromId(6);
+    libCore_gv_mAPMapAnnouncer[libGame_gv_teamOrderIndex_C] = "RavenLord";
+    libCore_gv_mAPMapAnnouncer[libGame_gv_teamChaosIndex_C] = "RavenLord";
+    libCore_gv_mAPMapSoundtrack[0] = "MX_Dragonshire_Intro";
+    libCore_gv_mAPMapSoundtrack[1] = "MX_Dragonshire_LVL_1";
+    libCore_gv_mAPMapSoundtrack[2] = "MX_Dragonshire_LVL_10";
+    libCore_gv_mAPMapSoundtrack[3] = "MX_Dragonshire_LVL_20";
+    return true;
+}
+
+//--------------------------------------------------------------------------------------------------
+void gt_HookupGlobalVariables_Init () {
+    gt_HookupGlobalVariables = TriggerCreate("gt_HookupGlobalVariables_Func");
+}
+
+//--------------------------------------------------------------------------------------------------
+// Trigger: Hookup Jungle Creep Data
+//--------------------------------------------------------------------------------------------------
+bool gt_HookupJungleCreepData_Func (bool testConds, bool runActions) {
+    // Variable Declarations
+    int lv_junglecamp;
+
+    // Automatic Variable Declarations
+    // Variable Initialization
+
+    // Actions
+    if (!runActions) {
+        return true;
+    }
+
+    lv_junglecamp += 1;
+    libMapM_gv_jungleCreepCamps[lv_junglecamp].lv_mapDataCampType = libMapM_ge_JungleCampTypes_MercCamp;
+    libMapM_gv_jungleCreepCamps[lv_junglecamp].lv_mapDataCampDefenderType = libMapM_ge_JungleCampDefenderTypes_Knights;
+    libMapM_gv_jungleCreepCamps[lv_junglecamp].lv_mapDataCampCaptainSpawnPoint = PointFromId(1798146123);
+    libMapM_gv_jungleCreepCamps[lv_junglecamp].lv_mapDataDefenderSpawnPoints[1] = PointFromId(1150852688);
+    libMapM_gv_jungleCreepCamps[lv_junglecamp].lv_mapDataDefenderSpawnPoints[2] = PointFromId(1284990665);
+    libMapM_gv_jungleCreepCamps[lv_junglecamp].lv_mapDataDefenderSpawnPoints[3] = PointFromId(1815361196);
+    libMapM_gv_jungleCreepCamps[lv_junglecamp].lv_mapDataDefenderSpawnPoints[4] = PointFromId(1289110046);
+    libMapM_gv_jungleCreepCamps[lv_junglecamp].lv_mapDataDefenderLeashRegion = RegionFromId(3);
+    libMapM_gv_jungleCreepCamps[lv_junglecamp].lv_mapDataBannerPoint = PointFromId(1138654941);
+    libMapM_gv_jungleCreepCamps[lv_junglecamp].lv_mapDataMercSpawnType = libMapM_ge_JungleCampMercTypes_Ogres;
+    libMapM_gv_jungleCreepCamps[lv_junglecamp].lv_mercMercCampHasSingleWaypoint[libGame_gv_teamOrderIndex_C] = true;
+    libMapM_gv_jungleCreepCamps[lv_junglecamp].lv_mercMercCampHasSingleWaypoint[libGame_gv_teamChaosIndex_C] = true;
+    libMapM_gv_jungleCreepCamps[lv_junglecamp].lv_mercOrderMercCampPathing[1].lv_waypoint = PointFromId(18);
+    libMapM_gv_jungleCreepCamps[lv_junglecamp].lv_mercChaosMercCampPathing[1].lv_waypoint = PointFromId(15);
+    libMapM_gv_jungleNumberOfCreepCamps = lv_junglecamp;
+    return true;
+}
+
+//--------------------------------------------------------------------------------------------------
+void gt_HookupJungleCreepData_Init () {
+    gt_HookupJungleCreepData = TriggerCreate("gt_HookupJungleCreepData_Func");
+}
+
+//--------------------------------------------------------------------------------------------------
+// Trigger: Hookup Lane Data
+//--------------------------------------------------------------------------------------------------
+bool gt_HookupLaneData_Func (bool testConds, bool runActions) {
+    // Variable Declarations
+    int lv_structureCount;
+    int lv_waypointCount;
+
+    // Automatic Variable Declarations
+    // Variable Initialization
+
+    // Actions
+    if (!runActions) {
+        return true;
+    }
+
+    libGame_gv_laneCount += 1;
+    lv_structureCount = 0;
+    lv_waypointCount = 0;
+    libGame_gv_laneData[libGame_gv_laneCount].lv_laneNamePreset = libGame_ge_LaneNamePreset_Top;
+    lv_structureCount += 1;
+    libGame_gv_laneData[libGame_gv_laneCount].lv_orderStructures[lv_structureCount] = UnitFromId(154);
+    libGame_gv_laneData[libGame_gv_laneCount].lv_chaosStructures[lv_structureCount] = UnitFromId(918);
+    libGame_gv_laneData[libGame_gv_laneCount].lv_structureCount = lv_structureCount;
+    lv_waypointCount += 1;
+    libGame_gv_laneData[libGame_gv_laneCount].lv_waypoints[lv_waypointCount] = PointFromId(1126);
+    lv_waypointCount += 1;
+    libGame_gv_laneData[libGame_gv_laneCount].lv_waypoints[lv_waypointCount] = PointFromId(130);
+    lv_waypointCount += 1;
+    libGame_gv_laneData[libGame_gv_laneCount].lv_waypoints[lv_waypointCount] = PointFromId(137);
+    lv_waypointCount += 1;
+    libGame_gv_laneData[libGame_gv_laneCount].lv_waypoints[lv_waypointCount] = PointFromId(410);
+    lv_waypointCount += 1;
+    libGame_gv_laneData[libGame_gv_laneCount].lv_waypoints[lv_waypointCount] = PointFromId(727);
+    lv_waypointCount += 1;
+    libGame_gv_laneData[libGame_gv_laneCount].lv_waypoints[lv_waypointCount] = PointFromId(728);
+    lv_waypointCount += 1;
+    libGame_gv_laneData[libGame_gv_laneCount].lv_waypoints[lv_waypointCount] = PointFromId(729);
+    lv_waypointCount += 1;
+    libGame_gv_laneData[libGame_gv_laneCount].lv_waypoints[lv_waypointCount] = PointFromId(730);
+    lv_waypointCount += 1;
+    libGame_gv_laneData[libGame_gv_laneCount].lv_waypoints[lv_waypointCount] = PointFromId(731);
+    lv_waypointCount += 1;
+    libGame_gv_laneData[libGame_gv_laneCount].lv_waypoints[lv_waypointCount] = PointFromId(733);
+    lv_waypointCount += 1;
+    libGame_gv_laneData[libGame_gv_laneCount].lv_waypoints[lv_waypointCount] = PointFromId(734);
+    lv_waypointCount += 1;
+    libGame_gv_laneData[libGame_gv_laneCount].lv_waypoints[lv_waypointCount] = PointFromId(737);
+    lv_waypointCount += 1;
+    libGame_gv_laneData[libGame_gv_laneCount].lv_waypoints[lv_waypointCount] = PointFromId(1127);
+    libGame_gv_laneData[libGame_gv_laneCount].lv_waypointCount = lv_waypointCount;
+    libGame_gv_laneCount += 1;
+    lv_structureCount = 0;
+    lv_waypointCount = 0;
+    libGame_gv_laneData[libGame_gv_laneCount].lv_laneNamePreset = libGame_ge_LaneNamePreset_Bottom;
+    lv_structureCount += 1;
+    libGame_gv_laneData[libGame_gv_laneCount].lv_orderStructures[lv_structureCount] = UnitFromId(154);
+    libGame_gv_laneData[libGame_gv_laneCount].lv_chaosStructures[lv_structureCount] = UnitFromId(918);
+    libGame_gv_laneData[libGame_gv_laneCount].lv_structureCount = lv_structureCount;
+    lv_waypointCount += 1;
+    libGame_gv_laneData[libGame_gv_laneCount].lv_waypoints[lv_waypointCount] = PointFromId(1126);
+    lv_waypointCount += 1;
+    libGame_gv_laneData[libGame_gv_laneCount].lv_waypoints[lv_waypointCount] = PointFromId(129);
+    lv_waypointCount += 1;
+    libGame_gv_laneData[libGame_gv_laneCount].lv_waypoints[lv_waypointCount] = PointFromId(128);
+    lv_waypointCount += 1;
+    libGame_gv_laneData[libGame_gv_laneCount].lv_waypoints[lv_waypointCount] = PointFromId(127);
+    lv_waypointCount += 1;
+    libGame_gv_laneData[libGame_gv_laneCount].lv_waypoints[lv_waypointCount] = PointFromId(126);
+    lv_waypointCount += 1;
+    libGame_gv_laneData[libGame_gv_laneCount].lv_waypoints[lv_waypointCount] = PointFromId(18);
+    lv_waypointCount += 1;
+    libGame_gv_laneData[libGame_gv_laneCount].lv_waypoints[lv_waypointCount] = PointFromId(17);
+    lv_waypointCount += 1;
+    libGame_gv_laneData[libGame_gv_laneCount].lv_waypoints[lv_waypointCount] = PointFromId(15);
+    lv_waypointCount += 1;
+    libGame_gv_laneData[libGame_gv_laneCount].lv_waypoints[lv_waypointCount] = PointFromId(13);
+    lv_waypointCount += 1;
+    libGame_gv_laneData[libGame_gv_laneCount].lv_waypoints[lv_waypointCount] = PointFromId(4);
+    lv_waypointCount += 1;
+    libGame_gv_laneData[libGame_gv_laneCount].lv_waypoints[lv_waypointCount] = PointFromId(14);
+    lv_waypointCount += 1;
+    libGame_gv_laneData[libGame_gv_laneCount].lv_waypoints[lv_waypointCount] = PointFromId(1128);
+    lv_waypointCount += 1;
+    libGame_gv_laneData[libGame_gv_laneCount].lv_waypoints[lv_waypointCount] = PointFromId(1127);
+    libGame_gv_laneData[libGame_gv_laneCount].lv_waypointCount = lv_waypointCount;
+    return true;
+}
+
+//--------------------------------------------------------------------------------------------------
+void gt_HookupLaneData_Init () {
+    gt_HookupLaneData = TriggerCreate("gt_HookupLaneData_Func");
+}
+
+//--------------------------------------------------------------------------------------------------
+// Trigger: Hookup Region Data
+//--------------------------------------------------------------------------------------------------
+bool gt_HookupRegionData_Func (bool testConds, bool runActions) {
+    // Automatic Variable Declarations
+    // Actions
+    if (!runActions) {
+        return true;
+    }
+
+    libMapM_gf_MapSetRepulseRegion(libGame_gv_teamOrderIndex_C, RegionFromId(64), PointFromId(1732914925), PointFromId(1853263666), PointFromId(1785909752), PointFromId(167001055));
+    libMapM_gf_MapSetRepulseRegion(libGame_gv_teamChaosIndex_C, RegionFromId(24), PointFromId(976429715), PointFromId(440144130), PointFromId(2115475478), PointFromId(1740743107));
+    libMapM_gf_MapSetSafeRegion(libGame_gv_teamOrderIndex_C, RegionFromId(64));
+    libMapM_gf_MapSetSafeRegion(libGame_gv_teamChaosIndex_C, RegionFromId(24));
+    return true;
+}
+
+//--------------------------------------------------------------------------------------------------
+void gt_HookupRegionData_Init () {
+    gt_HookupRegionData = TriggerCreate("gt_HookupRegionData_Func");
+}
+
+//--------------------------------------------------------------------------------------------------
+// Trigger: Hookup Town Data
+//--------------------------------------------------------------------------------------------------
+bool gt_HookupTownData_Func (bool testConds, bool runActions) {
+    // Variable Declarations
+    int lv_lane;
+    int lv_town;
+    int[3][3][3] lv_townIndexes;
+    int lv_team;
+    int lv_laneTownIndex;
+
+    // Automatic Variable Declarations
+    // Variable Initialization
+
+    // Actions
+    if (!runActions) {
+        return true;
+    }
+
+    lv_team = libGame_gv_teamOrderIndex_C;
+    lv_lane = 1;
+    lv_laneTownIndex = 0;
+    lv_town += 1;
+    lv_laneTownIndex += 1;
+    libGame_gv_townTownData[lv_town].lv_lane = lv_lane;
+    libGame_gv_townTownData[lv_town].lv_owner = libCore_gv_cOMPUTER_TeamOrder;
+    libGame_gv_townTownData[lv_town].lv_townRegion = RegionFromId(18);
+    lv_townIndexes[lv_team][lv_lane][lv_laneTownIndex] = lv_town;
+    lv_lane = 2;
+    lv_laneTownIndex = 0;
+    lv_town += 1;
+    lv_laneTownIndex += 1;
+    libGame_gv_townTownData[lv_town].lv_lane = lv_lane;
+    libGame_gv_townTownData[lv_town].lv_owner = libCore_gv_cOMPUTER_TeamOrder;
+    libGame_gv_townTownData[lv_town].lv_townRegion = RegionFromId(15);
+    lv_townIndexes[lv_team][lv_lane][lv_laneTownIndex] = lv_town;
+    lv_team = libGame_gv_teamChaosIndex_C;
+    lv_lane = 1;
+    lv_laneTownIndex = 0;
+    lv_town += 1;
+    lv_laneTownIndex += 1;
+    libGame_gv_townTownData[lv_town].lv_lane = lv_lane;
+    libGame_gv_townTownData[lv_town].lv_owner = libCore_gv_cOMPUTER_TeamChaos;
+    libGame_gv_townTownData[lv_town].lv_townRegion = RegionFromId(19);
+    lv_townIndexes[lv_team][lv_lane][lv_laneTownIndex] = lv_town;
+    lv_lane = 2;
+    lv_laneTownIndex = 0;
+    lv_town += 1;
+    lv_laneTownIndex += 1;
+    libGame_gv_townTownData[lv_town].lv_lane = lv_lane;
+    libGame_gv_townTownData[lv_town].lv_owner = libCore_gv_cOMPUTER_TeamChaos;
+    libGame_gv_townTownData[lv_town].lv_townRegion = RegionFromId(20);
+    lv_townIndexes[lv_team][lv_lane][lv_laneTownIndex] = lv_town;
+    libGame_gv_townTownCount = lv_town;
+    return true;
+}
+
+//--------------------------------------------------------------------------------------------------
+void gt_HookupTownData_Init () {
+    gt_HookupTownData = TriggerCreate("gt_HookupTownData_Func");
+}
+
+//--------------------------------------------------------------------------------------------------
+// Trigger Initialization
+//--------------------------------------------------------------------------------------------------
+void InitTriggers () {
+    gt_InitializeMap_Init();
+    gt_InitializeMinions_Init();
+    gt_HookupGlobalVariables_Init();
+    gt_HookupJungleCreepData_Init();
+    gt_HookupLaneData_Init();
+    gt_HookupRegionData_Init();
+    gt_HookupTownData_Init();
+}
+
+//--------------------------------------------------------------------------------------------------
+// Map Initialization
+//--------------------------------------------------------------------------------------------------
+void InitMap () {
+    InitLibs();
+    InitTriggers();
+}

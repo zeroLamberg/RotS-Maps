@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BankList>
+    <Bank Name="PlayerSettings" Player="1"/>
+    <Bank Name="PlayerSettings" Player="2"/>
+    <Bank Name="PlayerSettings" Player="3"/>
+    <Bank Name="PlayerSettings" Player="4"/>
+    <Bank Name="PlayerSettings" Player="5"/>
+    <Bank Name="PlayerSettings" Player="6"/>
+    <Bank Name="PlayerSettings" Player="7"/>
+    <Bank Name="PlayerSettings" Player="8"/>
+    <Bank Name="PlayerSettings" Player="9"/>
+    <Bank Name="PlayerSettings" Player="10"/>
+    <Bank Name="MetaData" Player="1"/>
+    <Bank Name="MetaData" Player="2"/>
+    <Bank Name="MetaData" Player="3"/>
+    <Bank Name="MetaData" Player="4"/>
+    <Bank Name="MetaData" Player="5"/>
+    <Bank Name="MetaData" Player="6"/>
+    <Bank Name="MetaData" Player="7"/>
+    <Bank Name="MetaData" Player="8"/>
+    <Bank Name="MetaData" Player="9"/>
+    <Bank Name="MetaData" Player="10"/>
+</BankList>

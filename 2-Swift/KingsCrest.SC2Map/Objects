@@ -1,0 +1,1825 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PlacedObjects Version="27">
+    <ObjectDoodad Id="989" Variation="1" Position="61,55,7.943" Rotation="0.1765" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="536" Variation="3" Position="73.5,87.5,7.943" Scale="1,1,1" Type="Storm_Doodad_CyberWorld_Curtain" TintColor="187,255,136">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="950" Variation="1" Position="119.5,82.5,7.9445" Rotation="2.0844" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1073" Variation="7" Position="67.281,94.5688,7.9438" Rotation="2.0065" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1439" Position="80.188,86.4145,7.9631" Rotation="6.2634" Scale="1.2998,1.2998,1.2998" Type="Storm_Doodad_KingsCrest_Pillars">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1055" Variation="11" Position="19.175,53.6606,7.943" Rotation="0.281" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="121" Variation="3" Position="67.5307,83.5104,7.9372" Rotation="0.2275" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1011" Variation="2" Position="46.0317,21.156,7.943" Rotation="1.5461" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="920" Variation="1" Position="63.5,57,7.943" Rotation="1.6076" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1064" Variation="8" Position="63.5773,88.0556,7.943" Rotation="5.9472" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="964" Variation="4" Position="99.5,86,7.9445" Rotation="5.8444" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="943" Variation="4" Position="36.5,76.5,7.943" Rotation="0.8403" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1002" Variation="7" Position="65.566,50.3854,7.943" Rotation="1.4086" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="897" Variation="5" Position="102,62.5,7.937" Rotation="4.1435" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1030" Variation="7" Position="103.3325,21.7297,7.943" Rotation="2.9162" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1069" Variation="6" Position="59.0566,89.1755,7.9428" Rotation="5.4948" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="938" Variation="6" Position="80.5,60,7.943" Rotation="2.8537" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="961" Variation="5" Position="57.5,86.5,7.943" Rotation="0.2526" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="900" Variation="6" Position="63.3942,65.1987,7.9428" Rotation="5.111" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1007" Variation="1" Position="61.2834,67.2358,7.943" Rotation="6.1403" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1027" Variation="2" Position="119.5766,21.1672,7.943" Rotation="4.399" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="541" Variation="3" Position="86.5,86.5,7.9445" Scale="1,1,1" Type="Storm_Doodad_CyberWorld_Curtain" TintColor="187,255,136">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="947" Variation="6" Position="38,80.5,7.943" Rotation="1.4956" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="984" Variation="4" Position="95.183,47.781,7.943" Rotation="1.1364" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="466" Variation="1" Position="118.0263,64.009,7.9392" Rotation="3.9743" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_CoreRange">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="23" Position="25.546,48.0104,7.9377" Rotation="5.9704" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_CoreRange">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="441" Variation="2" Position="34.4982,78.5922,7.9428" Rotation="0.7861" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1050" Variation="7" Position="96.4267,19.0642,7.943" Rotation="1.4956" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="925" Position="94.9248,51.2736,7.9294" Rotation="2.159" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1014" Position="33.333,28.7133,7.943" Rotation="2.8598" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="928" Variation="1" Position="75,59,7.943" Rotation="4.4033" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="971" Variation="4" Position="67.5,88,7.943" Rotation="0.0346" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1063" Variation="8" Position="93.6276,89.0837,7.9445" Rotation="2.5776" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1033" Variation="6" Position="93.8103,13.098,7.943" Rotation="0.0241" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1447" Variation="1" Position="128.9328,76.021,7.9445" Rotation="5.6113" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="544" Position="68,22,7.9433" Scale="1,1,1" Type="Storm_Doodad_CyberWorld_CurtainLarge" TintColor="133,177,120">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="910" Position="85.5402,70,7.9445" Rotation="2.29" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="997" Variation="5" Position="76,40,7.943" Rotation="2.4704" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="535" Variation="1" Position="88,87,7.9445" Rotation="1.5705" Scale="1,1,1" Type="Storm_Doodad_CyberWorld_CurtainLarge" TintColor="133,177,120">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="953" Variation="4" Position="45,86.5,7.943" Rotation="1.3308" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="978" Variation="7" Position="84.5168,95.8583,7.9445" Rotation="2.835" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="919" Variation="3" Position="96.5,60.5,7.9294" Rotation="0.9016" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1020" Variation="3" Position="53.8962,86.5166,7.943" Rotation="4.4448" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="594" Position="70,22,7.9433" Rotation="1.5705" Scale="1,1,1" Type="Storm_Doodad_CyberWorld_CurtainLarge" TintColor="133,177,120">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="435" Position="81,26,7.9433" Rotation="3.1413" Scale="1,1,1" Type="Storm_Doodad_CyberWorld_CurtainLarge" TintColor="133,177,120">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="983" Variation="4" Position="64.8166,47.781,7.943" Rotation="5.1464" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="956" Variation="2" Position="111.5,86.5,7.9445" Rotation="1.764" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1017" Variation="4" Position="22.7082,39.8535,7.943" Rotation="0.19" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="914" Variation="4" Position="92,65.5,7.9294" Rotation="2.8327" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="24" Position="45.9875,60.4953,7.9411" Rotation="2.9291" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_CoreRange">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="974" Variation="6" Position="92,91,7.9445" Rotation="3.398" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1058" Variation="2" Position="18.8994,49.977,7.943" Rotation="1.4482" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="431" Position="113.6914,48.022,7.9392" Rotation="5.9704" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_CoreRange">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1036" Variation="1" Position="75.1333,23.1523,7.943" Rotation="2.2233" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="907" Variation="6" Position="70.5,70.5,7.943" Rotation="2.175" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="446" Variation="3" Position="50.9482,88.7031,7.9428" Rotation="4.14" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1053" Variation="8" Position="19.1418,56.3708,7.943" Rotation="4.3054" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="922" Variation="2" Position="64,53,7.943" Rotation="1.7326" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="948" Variation="6" Position="122,80.5,7.9445" Rotation="4.7873" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="899" Variation="7" Position="99.504,63.0676,7.9304" Rotation="5.1887" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1000" Variation="3" Position="85.6586,39.3386,7.943" Rotation="4.3771" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1450" Variation="4" Position="121.2668,82.8747,7.9445" Rotation="1.8198" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1028" Variation="6" Position="114.281,21.1181,7.943" Rotation="0.6" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1066" Variation="8" Position="71.6284,99.0036,7.9445" Rotation="4.4624" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="941" Variation="1" Position="35,74,7.943" Rotation="4.6318" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1005" Variation="1" Position="88.3408,57.5671,7.943" Rotation="0.1425" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="902" Variation="5" Position="65.5,67.5,7.943" Rotation="5.6953" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="12" Position="25,65,7.943" Rotation="0.7851" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_StartingPlatform" TeamColor="11">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1025" Variation="4" Position="127.311,28.0932,7.943" Rotation="3.7373" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1071" Variation="1" Position="90.4558,97.9907,7.9428" Rotation="2.6572" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="963" Variation="4" Position="60.5,86,7.943" Rotation="0.4384" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1048" Variation="3" Position="96.142,21.8803,7.943" Rotation="5.3947" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="21" Variation="1" Position="42.31,43.6862,7.9377" Rotation="0.8093" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_CoreRange">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1012" Variation="3" Position="41.3293,21.1037,7.943" Rotation="2.1394" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="927" Position="87,58,7.943" Rotation="3.8474" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="986" Variation="3" Position="99,51,7.9294" Rotation="1.1962" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="945" Variation="1" Position="38,77.5,7.943" Rotation="4.2851" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1035" Position="72.4072,21.601,7.943" Rotation="3.3752" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="999" Variation="8" Position="74.341,39.3386,7.943" Rotation="1.9057" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="908" Variation="6" Position="89.5,70.5,7.9445" Rotation="4.108" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="969" Variation="5" Position="65.5,85.5,7.943" Rotation="2.0451" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="930" Variation="5" Position="77.5,60.5,7.943" Rotation="5.7221" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1061" Variation="5" Position="126.431,74.598,7.9445" Rotation="3.2065" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1022" Variation="3" Position="138.128,39.7685,7.9445" Rotation="3.5686" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="917" Variation="3" Position="63.5,60.5,7.943" Rotation="5.3813" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="433" Position="123.0388,65.7297,7.9392" Rotation="3.9916" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_CoreRange">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1042" Variation="5" Position="87.6008,22.3457,7.943" Rotation="3.2155" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="474" Variation="6" Position="130.2592,27.2592,7.955" Rotation="4.191" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="976" Variation="6" Position="87.0168,95.8583,7.9445" Rotation="2.5825" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="955" Variation="2" Position="48.5,86.5,7.943" Rotation="4.519" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="533" Variation="1" Position="72,87,7.943" Scale="1,1,1" Type="Storm_Doodad_CyberWorld_CurtainLarge" TintColor="133,177,120">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="912" Variation="3" Position="87.9333,67.6618,7.9436" Rotation="2.1928" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1019" Variation="6" Position="19.572,42.618,7.943" Rotation="3.2434" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="479" Position="70,87,7.943" Rotation="1.5705" Scale="1,1,1" Type="Storm_Doodad_CyberWorld_CurtainLarge" TintColor="133,177,120">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="436" Variation="1" Position="129.2751,64.7258,7.9392" Rotation="2.961" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_CoreRange">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="958" Variation="2" Position="108,86,7.9445" Rotation="4.828" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="981" Variation="2" Position="61.9704,45.4055,7.9428" Rotation="2.307" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1440" Variation="5" Position="127.639,75.166,7.9445" Rotation="4.0556" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="429" Variation="1" Position="130.4553,43.6977,7.9394" Rotation="0.8093" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_CoreRange">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1038" Variation="6" Position="80.274,22.984,7.943" Rotation="0.7946" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="905" Variation="7" Position="91.792,68.8671,7.9445" Rotation="1.0612" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="972" Variation="4" Position="92.5,88,7.9445" Rotation="6.248" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="70" Position="36.3432,53.6962,7.9377" Rotation="0.8845" Scale="1,1,1" Type="Storm_Doodad_Kingscrest_Gardens_CorePlatform">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1056" Variation="11" Position="140.8247,53.6606,7.9445" Rotation="6.0017" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="156" Variation="1" Position="24.036,54.2004,7.9377" Rotation="4.852" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_CoreRange">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1758" Variation="1" Position="62.0935,83.5288,7.9372" Rotation="6.169" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="893" Variation="7" Position="102,55.5,7.9294" Rotation="5.661" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="723" Variation="9" Position="81.9782,51.565,7.9375" Rotation="3.5395" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_ChiseledRock_Mine" TintColor="169,167,197">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="790" Variation="1" Position="70,93,7.9548" Rotation="2.0151" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1819" Variation="5" Position="89.655,37.7446,7.9372" Rotation="0.2182" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="765" Variation="6" Position="121.559,23.9353,7.943" Rotation="5.4086" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1886" Variation="7" Position="15.3098,56.9475,7.943" Rotation="5.693" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="851" Variation="1" Position="56.241,22.9123,7.943" Rotation="1.8903" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="714" Variation="7" Position="73.6594,40.4135,7.943" Rotation="6.025" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1897" Variation="4" Position="141.479,39.5375,7.9443" Rotation="3.737" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="868" Variation="4" Position="86.4848,20.828,7.943" Rotation="0.173" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1794" Variation="3" Position="74.4428,71.4736,7.9545" Rotation="4.2487" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="783" Position="89,93.5,7.9562" Rotation="1.0012" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="740" Variation="7" Position="142,43.5,7.9445" Rotation="3.742" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="719" Variation="2" Position="36.5375,21.8815,7.943" Rotation="1.123" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1900" Variation="7" Position="62.4626,88.5571,7.943" Rotation="3.101" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="865" Variation="4" Position="78,12.5,7.943" Rotation="6.0295" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="235" Variation="1" Position="29.9733,43.4384,7.9377" Rotation="6.0383" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_CoreRange">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1165" Variation="3" Position="78.5573,50.9702,7.9375" Rotation="5.7783" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_ChiseledRock_Mine" TintColor="169,167,197">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1858" Position="94.9858,88.2578,7.9562" Rotation="0.6271" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="311" Position="134.614,48.3464,7.9394" Rotation="1.839" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_CoreRange">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="787" Variation="5" Position="76.3535,96.1564,7.956" Rotation="2.617" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="701" Variation="1" Position="94,22,7.9433" Rotation="1.5705" Scale="1,1,1" Type="Storm_Doodad_CyberWorld_CurtainLarge" TintColor="133,177,120">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1822" Position="84.2416,27.6166,7.9372" Rotation="2.9238" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1755" Position="64.8796,83.0085,7.9372" Rotation="0.0485" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="888" Variation="3" Position="59,48.5,7.943" Rotation="1.6027" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="726" Variation="5" Position="141.5,51.5,7.9445" Rotation="1.4687" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="760" Variation="2" Position="31.5,30.5,7.943" Rotation="3.6552" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="854" Variation="6" Position="101,21,7.943" Rotation="5.8266" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1805" Variation="3" Position="58.5097,27.752,7.9372" Rotation="3.5107" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="768" Variation="4" Position="73.0168,98.8583,7.954" Rotation="0.1945" Scale="1.0217,1.0217,1.0217" Type="Storm_Doodad_KingsCrest_Flowers">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="709" Variation="4" Position="142.5,55.5,7.9445" Rotation="6.2575" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1894" Variation="7" Position="136.5043,33.1425,7.9443" Rotation="2.916" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="814" Variation="5" Position="50,22.5,7.943" Rotation="4.4782" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1827" Variation="3" Position="98.395,27.4768,7.9372" Rotation="3.1542" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="747" Variation="4" Position="23.5,36.5,7.9445" Rotation="1.8037" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1745" Variation="3" Position="64.208,86.043,7.9548" Rotation="0.4721" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="882" Variation="4" Position="76.301,42,7.943" Rotation="5.6337" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="732" Variation="4" Position="81.6345,51.077,7.9375" Rotation="4.5122" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_ChiseledRock_Mine" TintColor="169,167,197">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1397" Position="80.3076,85.7832,7.939" Rotation="5.6445" Scale="0.75,0.75,0.75" Type="Storm_Doodad_KingsCrest_Bushes">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1791" Variation="3" Position="76.6555,73.9616,7.9382" Rotation="3.0043" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="860" Position="94.5,15,7.943" Rotation="1.2578" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1748" Variation="3" Position="90.111,91.823,7.9562" Rotation="0.4721" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="887" Variation="7" Position="101.5,45.5,7.9294" Rotation="3.0417" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="796" Variation="4" Position="90.902,94.7023,7.9562" Rotation="5.9377" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1809" Position="75.5654,27.6574,7.9372" Rotation="3.5217" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="759" Variation="2" Position="132.5,32.5,7.9445" Rotation="2.5927" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1786" Variation="1" Position="90.698,84.087,7.9387" Rotation="5.986" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="857" Variation="1" Position="63,18,7.943" Rotation="4.851" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1855" Variation="1" Position="124.2067,82.1437,7.9428" Rotation="1.6406" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1891" Variation="4" Position="62.7136,15.9064,7.943" Rotation="3.4914" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1741" Variation="6" Position="82.6018,85.3715,7.9562" Rotation="2.015" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="811" Variation="5" Position="116.5,22,7.943" Rotation="1.66" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="767" Variation="4" Position="89.5168,97.3583,7.9523" Rotation="2.473" Scale="0.9558,0.9558,0.9558" Type="Storm_Doodad_KingsCrest_Flowers">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1400" Variation="3" Position="75.5766,87.1604,7.9375" Rotation="2.906" Scale="0.7998,0.7998,0.7998" Type="Storm_Doodad_KingsCrest_Gardens_Obelisk_Overgrown">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="373" Variation="2" Position="60.263,17.427,7.943" Rotation="3.6896" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="245" Variation="1" Position="73.6333,83.5556,7.9372" Rotation="6.1687" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1817" Position="84.169,35.55,7.9372" Rotation="0.3957" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="788" Variation="4" Position="67.6127,89.1547,7.9548" Rotation="4.7995" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="721" Variation="9" Position="77.95,50.159,7.9375" Rotation="1.0373" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_ChiseledRock_Mine" TintColor="169,167,197">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1756" Variation="3" Position="62.7221,72.5737,7.9372" Rotation="3.56" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="895" Variation="5" Position="102.5,60,7.9294" Rotation="4.0332" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="364" Variation="4" Position="34.0898,22.6674,7.943" Rotation="1.8034" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="742" Variation="5" Position="78.9277,39.7346,7.943" Rotation="2.4702" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="781" Variation="1" Position="82.5168,99.3583,7.953" Rotation="1.1875" Scale="0.9558,0.9558,0.9558" Type="Storm_Doodad_KingsCrest_Flowers">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1792" Position="88.3454,73.9672,7.9387" Rotation="3.042" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="870" Variation="3" Position="84.8886,21.9975,7.943" Rotation="1.5322" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1899" Variation="7" Position="144.4987,53.4787,7.9445" Rotation="3.101" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="739" Variation="7" Position="18,43.5,7.943" Rotation="2.541" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1856" Variation="2" Position="124.8403,78.1623,7.9443" Rotation="1.7656" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1991731617" Variation="1" Position="80,56,7.9357" Rotation="2.759" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Campfire">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="867" Variation="4" Position="73.389,21.1042,7.943" Rotation="6.1098" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1902" Variation="7" Position="97.7888,88.243,7.93" Rotation="3.101" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="776" Variation="5" Position="43.5,22,7.943" Rotation="4.6228" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1797" Variation="1" Position="64.5363,38.3984,7.9372" Rotation="5.8073" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="233" Position="77,26,7.9433" Scale="1,1,1" Type="Storm_Doodad_CyberWorld_CurtainLarge" TintColor="133,177,120">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1783" Position="82.258,82.984,7.9387" Rotation="0.2666" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="852" Variation="1" Position="104.4726,23.877,7.943" Rotation="4.3925" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="762" Variation="6" Position="35,26.5,7.943" Rotation="1.5546" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2096635576" Variation="1" Position="79.9995,90.6564,7.9375" Rotation="2.7595" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Campfire">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1208" Variation="1" Position="80.0576,51.3974,7.9375" Rotation="2.5751" Scale="0.7998,0.7998,0.7998" Type="Storm_Doodad_KingsCrest_Gardens_Obelisk_Overgrown">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="309" Variation="1" Position="25.9836,59.9194,7.9377" Rotation="4.381" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_CoreRange">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1753" Variation="3" Position="59.1301,83.4865,7.9372" Rotation="0.2277" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="890" Variation="6" Position="57.5,51.5,7.943" Rotation="3.0144" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1820" Variation="1" Position="92.6623,38.2395,7.9372" Rotation="0.114" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="785" Variation="4" Position="87.9531,95.3071,7.9562" Rotation="3.0532" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1764" Variation="2" Position="97.4157,72.9545,7.939" Rotation="2.852" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1825" Position="95.483,27.8002,7.9372" Rotation="3.2087" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="812" Position="48,20.5,7.943" Rotation="4.0234" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1892" Variation="4" Position="96.7963,13,7.943" Rotation="3.4914" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1807" Variation="3" Position="97.9116,39.84,7.9372" Rotation="0.5524" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1399" Position="82.3615,88.0966,7.939" Rotation="5.6445" Scale="0.75,0.75,0.75" Type="Storm_Doodad_KingsCrest_Bushes">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1789" Variation="4" Position="82.5134,73.8947,7.9387" Rotation="3.0903" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="862" Variation="7" Position="90.8986,9.8044,7.943" Rotation="6.051" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1747" Variation="3" Position="69.0546,91.3645,7.9548" Rotation="0.4721" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="880" Variation="1" Position="75,42,7.943" Rotation="5.9211" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1814" Variation="5" Position="81.4025,27.9533,7.9372" Rotation="3.153" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="795" Variation="6" Position="80.464,95.2424,7.956" Rotation="0.5534" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="250" Variation="1" Position="31.0898,26.6674,7.943" Rotation="0.7692" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="816" Position="90,22,7.9433" Scale="1,1,1" Type="Storm_Doodad_CyberWorld_CurtainLarge" TintColor="133,177,120">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1853" Variation="6" Position="125.2065,82.1335,7.943" Rotation="2.475" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1784" Variation="3" Position="84.7385,84.0488,7.9387" Rotation="0.4455" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="859" Position="65.5,15,7.943" Rotation="5.025" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="757" Variation="4" Position="136.5,36.5,7.9445" Rotation="4.4792" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1811" Variation="5" Position="81.3752,35.176,7.9372" Rotation="0.0017" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1750" Variation="3" Position="97.494,85.9831,7.9562" Rotation="0.4721" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="885" Variation="2" Position="99.5,43.5,7.9294" Rotation="3.6748" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="809" Position="79,71,7.9433" Scale="1,1,1" Type="Storm_Doodad_CyberWorld_CurtainLarge" TintColor="133,177,120">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1761" Position="93.396,83.1667,7.939" Rotation="0.0483" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1802" Variation="1" Position="75.7954,36.1791,7.9372" Rotation="6.0866" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1743" Variation="3" Position="78.7692,86.1984,7.9562" Rotation="1.001" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="876" Position="79,39,7.943" Rotation="2.3164" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="706" Variation="1" Position="86.3403,40.4135,7.943" Rotation="0.2575" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1889" Variation="6" Position="30.1618,28.7854,7.943" Rotation="3.2431" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="886" Variation="7" Position="58.5,45.5,7.943" Rotation="3.2412" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1749" Variation="3" Position="92.0661,86.2841,7.9562" Rotation="6.0771" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1808" Position="67.1337,28.5612,7.9372" Rotation="2.8618" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="797" Variation="5" Position="74.0527,95.5595,7.9562" Rotation="5.7285" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="856" Variation="2" Position="97.5,22,7.943" Rotation="4.2448" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1787" Variation="3" Position="71.0895,74.0646,7.9372" Rotation="3.2866" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="758" Variation="2" Position="27.5,32.5,7.943" Rotation="3.69" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1854" Variation="7" Position="126.4912,75.6018,7.9443" Rotation="1.4416" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1740" Variation="6" Position="77.5698,86.0913,7.9562" Rotation="5.9548" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1890" Variation="4" Position="66.2553,13.4243,7.943" Rotation="3.4914" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1801" Position="78.4848,35.297,7.9372" Rotation="6.1367" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1762" Variation="1" Position="99.3381,83.7556,7.939" Rotation="6.245" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="810" Variation="1" Position="81,71,7.9296" Rotation="1.5705" Scale="1,1,1" Type="Storm_Doodad_CyberWorld_CurtainLarge" TintColor="133,177,120">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1804" Variation="5" Position="64.1645,29.0551,7.9372" Rotation="3.1105" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1895" Variation="6" Position="140.6284,37.3581,7.9548" Rotation="4.191" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="708" Variation="4" Position="17.9555,55.3942,7.943" Rotation="0.0253" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1320" Variation="5" Position="70.6962,83.689,7.9372" Rotation="0.0183" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1826" Variation="3" Position="101.3542,27.9077,7.9372" Rotation="3.55" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1767" Variation="2" Position="94.3503,73.3684,7.939" Rotation="3.2434" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1813" Variation="4" Position="78.3261,28.0007,7.9372" Rotation="3.1264" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="792" Variation="7" Position="78.424,95.4216,7.9562" Rotation="1.4157" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="883" Variation="6" Position="83.6987,42,7.943" Rotation="0.649" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1744" Position="67.7744,86.1701,7.9548" Rotation="1.001" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="861" Variation="7" Position="69.5,12.5,7.943" Rotation="0.2316" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1790" Position="79.625,74.0544,7.9387" Rotation="3.294" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="234" Variation="1" Position="79,26,7.9433" Rotation="1.5705" Scale="1,1,1" Type="Storm_Doodad_CyberWorld_CurtainLarge" TintColor="133,177,120">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1164" Variation="3" Position="78.972,52.5505,7.9375" Rotation="1.3205" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_ChiseledRock_Mine" TintColor="169,167,197">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1798" Variation="3" Position="72.8332,36.694,7.9372" Rotation="6.266" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="864" Variation="4" Position="85.5,11,7.943" Rotation="2.791" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1901" Variation="7" Position="65.666,90.6684,7.9428" Rotation="3.101" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1859" Variation="6" Position="50.7065,20.4982,7.943" Rotation="0.874" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="736" Variation="6" Position="16.1052,53.015,7.943" Rotation="0.3852" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1823" Variation="3" Position="89.896,26.1811,7.9372" Rotation="3.4157" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="786" Variation="4" Position="83.2294,95.258,7.956" Rotation="4.7995" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="889" Variation="3" Position="101,48.5,7.9294" Rotation="4.6801" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1754" Variation="5" Position="68.1247,74.1335,7.9372" Rotation="3.1601" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="310" Variation="1" Position="29.881,63.9975,7.9377" Rotation="3.9746" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_CoreRange">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="855" Variation="2" Position="62.5,22,7.943" Rotation="2.0378" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="761" Variation="2" Position="128.5,30.5,7.9438" Rotation="2.6276" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="722" Variation="4" Position="78.351,51.6623,7.9375" Rotation="0.4526" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_ChiseledRock_Mine" TintColor="169,167,197">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="892" Variation="7" Position="58,55.5,7.943" Rotation="0.622" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1759" Variation="3" Position="96.2443,83.696,7.939" Rotation="0.2277" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1818" Variation="1" Position="86.7797,36.9172,7.9372" Rotation="0.5068" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="791" Position="64.594,88.0253,7.9548" Rotation="0.6274" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="850" Variation="5" Position="110,22.5,7.943" Rotation="1.8046" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1887" Variation="5" Position="20.2556,38.7116,7.943" Rotation="0.1591" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="764" Variation="6" Position="37.5,22.5,7.943" Rotation="0.8742" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="869" Variation="3" Position="75.111,21.9975,7.943" Rotation="4.7507" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1896" Variation="5" Position="138.9511,35.0053,7.958" Rotation="0.25" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="782" Position="71,93.5,7.9562" Rotation="5.2812" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1795" Variation="3" Position="61.7497,39.4074,7.9372" Rotation="6.1491" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="672" Variation="1" Position="92,22,7.9433" Scale="1,1,1" Type="Storm_Doodad_CyberWorld_CurtainLarge" TintColor="133,177,120">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="741" Variation="1" Position="20.5,40.5,7.943" Rotation="0.7695" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1852" Variation="1" Position="109.2243,88.071,7.9445" Rotation="5.2646" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="671" Variation="1" Position="66,22,7.9433" Scale="1,1,1" Type="Storm_Doodad_CyberWorld_CurtainLarge" TintColor="133,177,120">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="858" Variation="1" Position="97,18,7.943" Rotation="1.4316" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1785" Variation="3" Position="87.7766,84.5832,7.9387" Rotation="0.045" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="187" Variation="4" Position="81,41.5,7.9394" Rotation="3.3203" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1810" Variation="3" Position="72.6887,26.7797,7.9372" Rotation="3.354" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="884" Variation="2" Position="60.5,43.5,7.943" Rotation="2.608" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1751" Variation="3" Position="101.322,86.093,7.9562" Rotation="0.4721" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="808" Position="83,71,7.9296" Rotation="3.141" Scale="1,1,1" Type="Storm_Doodad_CyberWorld_CurtainLarge" TintColor="133,177,120">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1760" Variation="3" Position="85.9848,71.686,7.9562" Rotation="5.5747" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1803" Variation="5" Position="69.7465,36.6416,7.9372" Rotation="0.0183" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1888" Variation="4" Position="33.298,26.021,7.943" Rotation="0.1896" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="877" Variation="2" Position="81,39,7.943" Rotation="3.9665" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1742" Position="81.7126,86.2893,7.9562" Rotation="1.001" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1194" Variation="7" Position="82.8857,51.1328,7.9375" Rotation="0.7192" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_ChiseledRock_Mine" TintColor="169,167,197">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="744" Variation="1" Position="139.5,40.5,7.9445" Rotation="5.5134" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="813" Position="112,20.5,7.943" Rotation="2.2595" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1824" Variation="3" Position="86.9438,26.4875,7.9372" Rotation="2.8693" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1893" Variation="7" Position="80.0861,10.0163,7.943" Rotation="2.916" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="710" Variation="5" Position="18.5,51.5,7.943" Rotation="4.814" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="872" Variation="1" Position="81.9514,21.705,7.943" Rotation="0.1928" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1806" Position="61.2446,28.818,7.9372" Rotation="3.456" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="226" Position="76.3854,82.8967,7.9377" Rotation="6.219" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="863" Variation="4" Position="74.5,11,7.943" Rotation="3.4916" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1788" Position="73.8886,74.5541,7.9372" Rotation="3.232" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1398" Position="80.4138,88.18,7.939" Rotation="0.0485" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Bushes">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="881" Variation="2" Position="85,42,7.943" Rotation="0.3618" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1746" Variation="3" Position="58.9536,85.9394,7.9548" Rotation="0.4721" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="794" Variation="6" Position="82.0168,95.8583,7.9565" Rotation="4.8666" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1815" Variation="4" Position="92.694,27.1926,7.9372" Rotation="3.5312" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1857" Position="125.971,76.4731,7.9443" Rotation="4.157" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="738" Variation="6" Position="144.5,49,7.9445" Rotation="5.8977" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="807" Variation="1" Position="77,71,7.9433" Rotation="3.1413" Scale="1,1,1" Type="Storm_Doodad_CyberWorld_CurtainLarge" TintColor="133,177,120">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="301" Variation="1" Position="83,26,7.9433" Scale="1,1,1" Type="Storm_Doodad_CyberWorld_CurtainLarge" TintColor="133,177,120">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1903" Variation="7" Position="94.8894,91.8083,7.9445" Rotation="3.101" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="866" Variation="4" Position="82,12.5,7.943" Rotation="0.2534" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1796" Position="66.9582,36.9274,7.9372" Rotation="5.9702" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="763" Variation="6" Position="125,26.5,7.943" Rotation="4.7282" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="853" Variation="6" Position="59,21,7.943" Rotation="0.456" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1782" Variation="4" Position="79.3217,82.827,7.9387" Rotation="0.0183" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="891" Variation="6" Position="102.5,51.5,7.9294" Rotation="3.2685" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1752" Variation="3" Position="91.1506,73.2382,7.9387" Rotation="3.0075" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="784" Position="79.078,94.9721,7.9523" Rotation="4.4726" Scale="0.7998,0.7998,0.7998" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1821" Position="95.3874,38.4057,7.9372" Rotation="0.3957" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1401" Position="84.4831,86.719,7.939" Rotation="5.731" Scale="0.7998,0.7998,0.7998" Type="Storm_Doodad_KingsCrest_Gardens_Obelisk_Overgrown">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1885" Variation="7" Position="30.384,77.2912,7.943" Rotation="5.693" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="789" Variation="4" Position="73.0856,95.3327,7.9562" Rotation="4.7995" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1816" Variation="3" Position="69.761,27.2673,7.9372" Rotation="2.8076" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="894" Variation="5" Position="57.5,60,7.943" Rotation="2.2497" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1757" Position="65.2866,73.7998,7.9372" Rotation="3.5053" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1860" Variation="3" Position="54.4536,23.9645,7.943" Rotation="2.1391" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="743" Variation="5" Position="81.072,39.7346,7.943" Rotation="3.8132" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1163" Variation="3" Position="81.5234,51.849,7.9375" Rotation="1.3205" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_ChiseledRock_Mine" TintColor="169,167,197">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1793" Variation="3" Position="85.585,73.8894,7.9387" Rotation="3.3098" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_CurbStone">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="780" Variation="2" Position="75.5,100,7.9538" Rotation="2.4726" Scale="0.9558,0.9558,0.9558" Type="Storm_Doodad_KingsCrest_Flowers">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1898" Variation="6" Position="145.9758,57.9433,7.955" Rotation="4.1906" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="871" Variation="1" Position="78.0483,21.705,7.943" Rotation="6.09" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="982" Variation="2" Position="98.0292,45.4055,7.9426" Rotation="3.976" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="957" Variation="2" Position="52,86,7.943" Rotation="1.455" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1044" Variation="9" Position="95.7268,21.797,7.943" Rotation="4.112" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="439" Variation="1" Position="37.4514,81.3361,7.9428" Rotation="0.661" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="25" Position="34.8935,65.7182,7.9377" Rotation="3.9916" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_CoreRange">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1016" Variation="5" Position="28.8537,33.4802,7.943" Rotation="0.1594" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="915" Variation="5" Position="65,63.5,7.943" Rotation="0.4841" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1059" Variation="2" Position="141.1003,49.977,7.9445" Rotation="4.8347" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="975" Variation="6" Position="73.0168,95.8583,7.9443" Rotation="3.7004" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="932" Variation="6" Position="79.5,60,7.943" Rotation="3.4291" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1037" Variation="10" Position="77.8876,22.7487,7.943" Rotation="0.1323" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="430" Position="124.3542,41.9348,7.9392" Rotation="0.763" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_CoreRange">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1062" Variation="8" Position="66.372,89.0837,7.943" Rotation="3.7053" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="929" Variation="1" Position="85,59,7.943" Rotation="1.8793" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="970" Variation="5" Position="94.5,85.5,7.9445" Rotation="4.2377" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="911" Variation="3" Position="72.0664,67.6618,7.943" Rotation="4.09" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="996" Variation="1" Position="82.9257,40.7268,7.943" Rotation="3.652" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="5" Variation="2" Position="83,43,7.9394" Rotation="0.5063" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1032" Variation="3" Position="96.8964,15.3842,7.943" Rotation="3.095" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="427" Variation="7" Position="56.2805,19.4658,7.967" Rotation="2.454" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="952" Variation="7" Position="117.5,84.5,7.9445" Rotation="0.5895" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="534" Position="90,87,7.9448" Scale="1,1,1" Type="Storm_Doodad_CyberWorld_CurtainLarge" TintColor="133,177,120">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="979" Variation="1" Position="81.3044,97.5876,7.9443" Rotation="6.2441" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="473" Variation="5" Position="131.2312,29.219,7.955" Rotation="4.8083" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1041" Variation="10" Position="86.0083,21.711,7.943" Rotation="0.8022" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="434" Variation="1" Position="136.1975,54.4697,7.9394" Rotation="1.8212" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_CoreRange">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1021" Variation="2" Position="141.9682,47.0888,7.9445" Rotation="3.273" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="939" Variation="5" Position="33,72.5,7.943" Rotation="2.529" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="960" Variation="2" Position="105.18,86.9355,7.9445" Rotation="0.0908" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1068" Variation="5" Position="38.8928,83.2844,7.9428" Rotation="2.2756" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1026" Position="123.8305,23.7316,7.943" Rotation="1.2033" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="901" Variation="6" Position="96.6054,65.1987,7.9384" Rotation="1.1716" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1006" Variation="1" Position="72.8972,57.457,7.943" Rotation="6.1403" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="946" Variation="1" Position="122,77.5,7.9445" Rotation="1.9978" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="540" Variation="3" Position="73.5,86.5,7.943" Scale="1,1,1" Type="Storm_Doodad_CyberWorld_Curtain" TintColor="187,255,136">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="985" Variation="3" Position="61,51,7.943" Rotation="5.0866" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="924" Position="65.075,51.2736,7.943" Rotation="4.124" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1015" Variation="2" Position="25.9477,35.714,7.9433" Rotation="1.1232" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="467" Variation="1" Position="114.129,59.931,7.9392" Rotation="4.3808" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_CoreRange">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1051" Variation="10" Position="38.8015,24.9868,7.943" Rotation="3.455" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="22" Position="36.209,41.9233,7.9377" Rotation="0.763" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_CoreRange">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="61" Variation="2" Position="79,41.5,7.9394" Rotation="2.9626" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1072" Variation="2" Position="85.8935,94.6962,7.9445" Rotation="2.5988" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="988" Variation="1" Position="99.5,60,7.9294" Rotation="4.7336" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="951" Variation="7" Position="42.5,84.5,7.943" Rotation="5.6933" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1010" Variation="2" Position="53.077,21.292,7.943" Rotation="0.953" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="921" Variation="1" Position="96.5,57,7.9294" Rotation="4.675" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1054" Variation="8" Position="140.858,56.3708,7.9445" Rotation="1.9775" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="19" Position="135,65,7.9448" Rotation="5.4975" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_StartingPlatform" TeamColor="12">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="942" Variation="1" Position="125,74,7.9445" Rotation="1.6511" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1065" Variation="8" Position="96.4223,88.0556,7.9382" Rotation="0.3356" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="394" Variation="7" Position="33.2922,75.7934,7.9428" Rotation="0.462" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1031" Variation="2" Position="99.4384,18.2426,7.943" Rotation="3.6694" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1003" Variation="8" Position="96.5375,47.4621,7.943" Rotation="4.856" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="896" Variation="5" Position="58,62.5,7.943" Rotation="2.1394" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1046" Variation="3" Position="63.8576,21.8803,7.943" Rotation="0.888" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="437" Variation="1" Position="112.1811,54.212,7.9392" Rotation="4.852" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_CoreRange">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="913" Variation="4" Position="68,65.5,7.943" Rotation="3.4501" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1018" Variation="2" Position="18.8771,47.2468,7.943" Rotation="3.9997" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="529" Position="143.588,62.3164,7.9394" Rotation="1.831" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_CoreRange">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="959" Variation="2" Position="55,86.5,7.943" Rotation="6.1921" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="980" Variation="1" Position="84.5168,99.3583,7.943" Rotation="0.0385" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="904" Variation="7" Position="67.5,69,7.943" Rotation="5.2214" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="995" Variation="7" Position="77.074,40.7268,7.943" Rotation="2.6308" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1039" Position="83.648,23.247,7.943" Rotation="4.094" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2" Position="77,43,7.9394" Rotation="5.7763" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="71" Position="124.0334,53.91,7.9392" Rotation="1.096" Scale="1,1,1" Type="Storm_Doodad_Kingscrest_Gardens_CorePlatform">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="973" Variation="6" Position="68,91,7.943" Rotation="2.885" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="998" Variation="11" Position="84,40,7.943" Rotation="3.8125" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="909" Position="74.4594,70,7.943" Rotation="3.993" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1034" Variation="1" Position="88.4504,10.6921,7.943" Rotation="5.9775" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="41" Variation="1" Position="41.13,64.7143,7.9377" Rotation="2.961" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_CoreRange">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1060" Variation="5" Position="33.5688,74.598,7.943" Rotation="3.0761" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="968" Variation="5" Position="96.0283,85.8105,7.9445" Rotation="1.432" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="931" Variation="5" Position="82.5,60.5,7.943" Rotation="0.5605" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1469" Position="78.079,88.1867,7.939" Rotation="5.6445" Scale="0.75,0.75,0.75" Type="Storm_Doodad_KingsCrest_Bushes">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="432" Position="134.1328,60.5068,7.9426" Rotation="2.9291" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_CoreRange">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="475" Variation="5" Position="127.8505,25.2485,7.9567" Rotation="0.25" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1023" Variation="5" Position="134.412,35.5776,7.9443" Rotation="3.1616" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="916" Variation="5" Position="95,63.5,7.9294" Rotation="5.7988" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="977" Variation="7" Position="75.5168,95.8583,7.944" Rotation="3.448" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="954" Variation="4" Position="115,86.5,7.9445" Rotation="4.9521" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1024" Variation="3" Position="131.0236,32.0246,7.9445" Rotation="1.255" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1004" Variation="8" Position="63.4621,47.4621,7.943" Rotation="1.4267" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="903" Variation="5" Position="94.5,67.5,7.937" Rotation="0.5876" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="962" Variation="5" Position="102.5,86.5,7.9445" Rotation="6.03" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="35" Variation="1" Position="48.052,54.4582,7.9377" Rotation="1.8212" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_CoreRange">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1070" Variation="4" Position="71.316,95.893,7.9443" Rotation="5.186" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1013" Variation="1" Position="37.5463,24.418,7.943" Rotation="5.8552" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="926" Position="73,58,7.943" Rotation="2.4355" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="20" Position="46.4687,48.335,7.9377" Rotation="1.839" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_CoreRange">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1049" Variation="7" Position="63.573,19.0642,7.943" Rotation="4.787" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="442" Position="32.965,75.9985,7.9428" Rotation="3.1772" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="465" Variation="1" Position="118.1186,43.45,7.9392" Rotation="6.0383" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_CoreRange">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="987" Variation="1" Position="60.5,60,7.943" Rotation="1.5493" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="944" Variation="4" Position="123.5,76.5,7.9445" Rotation="5.4426" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="923" Variation="2" Position="96,53,7.9294" Rotation="4.5502" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1008" Variation="1" Position="63.439,66.8771,7.943" Rotation="6.1403" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1052" Variation="10" Position="121.1982,24.9868,7.943" Rotation="2.828" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="447" Variation="1" Position="46.4033,88.0747,7.9428" Rotation="5.513" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="539" Variation="3" Position="86.5,87.5,7.9445" Scale="1,1,1" Type="Storm_Doodad_CyberWorld_Curtain" TintColor="187,255,136">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="949" Variation="1" Position="40.5,82.5,7.943" Rotation="4.1984" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="990" Variation="1" Position="99,55,7.9294" Rotation="6.1064" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="461" Position="134.2875,30.2888,7.9548" Rotation="2.8867" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1029" Variation="7" Position="107.4301,22.134,7.943" Rotation="3.1013" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="898" Variation="7" Position="60.4958,63.0676,7.943" Rotation="1.0942" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1001" Variation="7" Position="94.4338,50.3854,7.9294" Rotation="4.874" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="940" Variation="5" Position="127,72.5,7.9445" Rotation="3.754" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="967" Variation="5" Position="63.17,86.1276,7.9428" Rotation="4.8508" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_Gardens_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1067" Variation="8" Position="88.405,99.0036,7.943" Rotation="1.8203" Scale="1,1,1" Type="Storm_Doodad_KingsCrest_GardenBush">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectPoint Id="1594029755" Position="134.5,74.5,0" Rotation="5.4975" Scale="1,1,1" Type="StartLoc" Name="Start Location 9" Color="0,0,0,0"/>
+    <ObjectPoint Id="728" Position="70.5,79.5,0" Scale="1,1,1" Type="Normal" Name="Lane 1 - Waypoint 05" Color="0,0,0,0">
+        <Flag Index="PointHidden" Value="1"/>
+    </ObjectPoint>
+    <ObjectPoint Id="40035108" Position="25.5,74.5,0" Rotation="0.7851" Scale="1,1,1" Type="StartLoc" Name="Start Location 5" Color="0,0,0,0"/>
+    <ObjectPoint Id="741721155" Position="19.5,65.5,0" Rotation="0.7851" Scale="1,1,1" Type="StartLoc" Name="Start Location 2" Color="0,0,0,0"/>
+    <ObjectPoint Id="1815361196" Position="77,56,0" Rotation="1.5937" Scale="1,1,1" Type="Normal" Name="Hard Camp Mid Point 3" Color="0,0,0,0"/>
+    <ObjectPoint Id="18" Position="69,32.5,0" Rotation="1.5703" Scale="1,1,1" Type="Normal" Name="Lane 2 - Waypoint 05" Color="0,0,0,0">
+        <Flag Index="PointHidden" Value="1"/>
+    </ObjectPoint>
+    <ObjectPoint Id="730" Position="89.5,79.5,0" Scale="1,1,1" Type="Normal" Name="Lane 1 - Waypoint 07" Color="0,0,0,0">
+        <Flag Index="PointHidden" Value="1"/>
+    </ObjectPoint>
+    <ObjectPoint Id="933231624" Position="23.5,66.5,0" Rotation="0.7851" Scale="1,1,1" Type="StartLoc" Name="Start Location 1" Color="0,0,0,0"/>
+    <ObjectPoint Id="1126" Position="30.5,59,0" Scale="1,1,1" Type="Normal" Name="Lane Order Base Endpoint" Color="0,0,0,0">
+        <Flag Index="PointHidden" Value="1"/>
+    </ObjectPoint>
+    <ObjectPoint Id="679751767" Position="144.5,64.5,0" Rotation="5.4975" Scale="1,1,1" Type="StartLoc" Name="Start Location 10" Color="0,0,0,0"/>
+    <ObjectPoint Id="1853263666" Position="33.0493,61.5722,0" Rotation="4.1176" Scale="1,1,1" Type="Normal" Name="Order Punt Point 2" Color="0,0,0,0">
+        <Flag Index="PointHidden" Value="1"/>
+    </ObjectPoint>
+    <ObjectPoint Id="1798146123" Position="80,56,0" Scale="1,1,1" Type="Normal" Name="Hard Camp Mid Captain Point" Color="0,0,0,0">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectPoint>
+    <ObjectPoint Id="128" Position="49,43,0" Scale="1,1,1" Type="Normal" Name="Lane 2 - Waypoint 02" Color="0,0,0,0">
+        <Flag Index="PointHidden" Value="1"/>
+    </ObjectPoint>
+    <ObjectPoint Id="130" Position="41,58,0" Scale="1,1,1" Type="Normal" Name="Lane 1 - Waypoint 01" Color="0,0,0,0">
+        <Flag Index="PointHidden" Value="1"/>
+    </ObjectPoint>
+    <ObjectPoint Id="1128" Position="119,50,0" Scale="1,1,1" Type="Normal" Name="Lane 2 - Waypoint 11" Color="0,0,0,0">
+        <Flag Index="PointHidden" Value="1"/>
+    </ObjectPoint>
+    <ObjectPoint Id="137" Position="48,67.5,0" Scale="1,1,1" Type="Normal" Name="Lane 1 - Waypoint 02" Color="0,0,0,0">
+        <Flag Index="PointHidden" Value="1"/>
+    </ObjectPoint>
+    <ObjectPoint Id="737" Position="119,58,0" Scale="1,1,1" Type="Normal" Name="Lane 1 - Waypoint 11" Color="0,0,0,0">
+        <Flag Index="PointHidden" Value="1"/>
+    </ObjectPoint>
+    <ObjectPoint Id="14" Position="111,43,0" Scale="1,1,1" Type="Normal" Name="Lane 2 - Waypoint 10" Color="0,0,0,0">
+        <Flag Index="PointHidden" Value="1"/>
+    </ObjectPoint>
+    <ObjectPoint Id="874215914" Position="77.1098,92.3398,0" Rotation="1.0361" Scale="1,1,1" Type="Normal" Name="Easy Camp Top Point 1" Color="0,0,0,0"/>
+    <ObjectPoint Id="66929971" Position="15.5,64.5,0" Rotation="0.7851" Scale="1,1,1" Type="StartLoc" Name="Start Location 4" Color="0,0,0,0"/>
+    <ObjectPoint Id="126" Position="59,33.5,0" Scale="1,1,1" Type="Normal" Name="Lane 2 - Waypoint 04" Color="0,0,0,0">
+        <Flag Index="PointHidden" Value="1"/>
+    </ObjectPoint>
+    <ObjectPoint Id="733" Position="102,77.5,0" Scale="1,1,1" Type="Normal" Name="Lane 1 - Waypoint 09" Color="0,0,0,0">
+        <Flag Index="PointHidden" Value="1"/>
+    </ObjectPoint>
+    <ObjectPoint Id="1138654941" Position="76.9726,58.791,0" Scale="1,1,1" Type="Normal" Name="Hard Camp Mid Banner Point" Color="0,0,0,0">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectPoint>
+    <ObjectPoint Id="2115475478" Position="130.9455,57.2121,0" Rotation="2.5585" Scale="1,1,1" Type="Normal" Name="Chaos Punt Point 3" Color="0,0,0,0">
+        <Flag Index="PointHidden" Value="1"/>
+    </ObjectPoint>
+    <ObjectPoint Id="1289110046" Position="80,58,0" Rotation="0.0197" Scale="1,1,1" Type="Normal" Name="Hard Camp Mid Point 4" Color="0,0,0,0"/>
+    <ObjectPoint Id="167001055" Position="23.542,56.4245,0" Rotation="3.352" Scale="1,1,1" Type="Normal" Name="Order Punt Point 4" Color="0,0,0,0">
+        <Flag Index="PointHidden" Value="1"/>
+    </ObjectPoint>
+    <ObjectPoint Id="28642790" Position="135.5,70.5,0" Rotation="5.4975" Scale="1,1,1" Type="StartLoc" Name="Start Location 7" Color="0,0,0,0"/>
+    <ObjectPoint Id="13" Position="101,33.5,0" Scale="1,1,1" Type="Normal" Name="Lane 2 - Waypoint 08" Color="0,0,0,0">
+        <Flag Index="PointHidden" Value="1"/>
+    </ObjectPoint>
+    <ObjectPoint Id="129" Position="41.5,50.5,0" Scale="1,1,1" Type="Normal" Name="Lane 2 - Waypoint 01" Color="0,0,0,0">
+        <Flag Index="PointHidden" Value="1"/>
+    </ObjectPoint>
+    <ObjectPoint Id="15" Position="91,32.5,0" Rotation="4.7126" Scale="1,1,1" Type="Normal" Name="Lane 2 - Waypoint 07" Color="0,0,0,0">
+        <Flag Index="PointHidden" Value="1"/>
+    </ObjectPoint>
+    <ObjectPoint Id="4" Position="103,34.5,0" Scale="1,1,1" Type="Normal" Name="Lane 2 - Waypoint 09" Color="0,0,0,0">
+        <Flag Index="PointHidden" Value="1"/>
+    </ObjectPoint>
+    <ObjectPoint Id="348748923" Position="136.5,66.5,0" Rotation="5.4975" Scale="1,1,1" Type="StartLoc" Name="Start Location 6" Color="0,0,0,0"/>
+    <ObjectPoint Id="1597118450" Position="80,90.64,0" Scale="1,1,1" Type="Normal" Name="Easy Camp Top Captain Point" Color="0,0,0,0"/>
+    <ObjectPoint Id="727" Position="60,78,0" Scale="1,1,1" Type="Normal" Name="Lane 1 - Waypoint 04" Color="0,0,0,0">
+        <Flag Index="PointHidden" Value="1"/>
+    </ObjectPoint>
+    <ObjectPoint Id="440144130" Position="126.9504,61.5722,0" Rotation="2.1652" Scale="1,1,1" Type="Normal" Name="Chaos Punt Point 2" Color="0,0,0,0">
+        <Flag Index="PointHidden" Value="1"/>
+    </ObjectPoint>
+    <ObjectPoint Id="127" Position="57,34.5,0" Scale="1,1,1" Type="Normal" Name="Lane 2 - Waypoint 03" Color="0,0,0,0">
+        <Flag Index="PointHidden" Value="1"/>
+    </ObjectPoint>
+    <ObjectPoint Id="1740743107" Position="136.4577,56.4245,0" Rotation="2.931" Scale="1,1,1" Type="Normal" Name="Chaos Punt Point 4" Color="0,0,0,0">
+        <Flag Index="PointHidden" Value="1"/>
+    </ObjectPoint>
+    <ObjectPoint Id="734" Position="112,67.5,0" Scale="1,1,1" Type="Normal" Name="Lane 1 - Waypoint 10" Color="0,0,0,0">
+        <Flag Index="PointHidden" Value="1"/>
+    </ObjectPoint>
+    <ObjectPoint Id="976429715" Position="126.4577,66.4245,0" Rotation="1.8381" Scale="1,1,1" Type="Normal" Name="Chaos Punt Point 1" Color="0,0,0,0">
+        <Flag Index="PointHidden" Value="1"/>
+    </ObjectPoint>
+    <ObjectPoint Id="702137007" Position="140.5,65.5,0" Rotation="5.4975" Scale="1,1,1" Type="StartLoc" Name="Start Location 8" Color="0,0,0,0"/>
+    <ObjectPoint Id="495443920" Position="24.5,70.5,0" Rotation="0.7851" Scale="1,1,1" Type="StartLoc" Name="Start Location 3" Color="0,0,0,0"/>
+    <ObjectPoint Id="1150852688" Position="80,54,0" Rotation="3.134" Scale="1,1,1" Type="Normal" Name="Hard Camp Mid Point 1" Color="0,0,0,0"/>
+    <ObjectPoint Id="729" Position="80,79.5,0" Scale="1,1,1" Type="Normal" Name="Lane 1 - Waypoint 06" Color="0,0,0,0">
+        <Flag Index="PointHidden" Value="1"/>
+    </ObjectPoint>
+    <ObjectPoint Id="1785909752" Position="29.0541,57.2121,0" Rotation="3.7243" Scale="1,1,1" Type="Normal" Name="Order Punt Point 3" Color="0,0,0,0">
+        <Flag Index="PointHidden" Value="1"/>
+    </ObjectPoint>
+    <ObjectPoint Id="1284990665" Position="83,56,0" Rotation="4.7033" Scale="1,1,1" Type="Normal" Name="Hard Camp Mid Point 2" Color="0,0,0,0"/>
+    <ObjectPoint Id="17" Position="80,32.5,0" Scale="1,1,1" Type="Normal" Name="Lane 2 - Waypoint 06" Color="0,0,0,0">
+        <Flag Index="PointHidden" Value="1"/>
+    </ObjectPoint>
+    <ObjectPoint Id="1732914925" Position="33.542,66.4245,0" Rotation="4.4445" Scale="1,1,1" Type="Normal" Name="Order Punt Point 1" Color="0,0,0,0">
+        <Flag Index="PointHidden" Value="1"/>
+    </ObjectPoint>
+    <ObjectPoint Id="731" Position="100,78,0" Scale="1,1,1" Type="Normal" Name="Lane 1 - Waypoint 08" Color="0,0,0,0">
+        <Flag Index="PointHidden" Value="1"/>
+    </ObjectPoint>
+    <ObjectPoint Id="410" Position="58,77.5,0" Scale="1,1,1" Type="Normal" Name="Lane 1 - Waypoint 03" Color="0,0,0,0">
+        <Flag Index="PointHidden" Value="1"/>
+    </ObjectPoint>
+    <ObjectPoint Id="2039616947" Position="82.89,92.3398,0" Rotation="5.2685" Scale="1,1,1" Type="Normal" Name="Easy Camp Top Point 2" Color="0,0,0,0"/>
+    <ObjectPoint Id="1127" Position="129,59,0" Scale="1,1,1" Type="Normal" Name="Lane Chaos Base Endpoint" Color="0,0,0,0">
+        <Flag Index="PointHidden" Value="1"/>
+    </ObjectPoint>
+    <ObjectPoint Id="444483472" Position="79.9584,94.0866,0" Scale="1,1,1" Type="Normal" Name="Easy Camp Top Banner Point" Color="0,0,0,0"/>
+    <ObjectUnit Id="756" Variation="17" Position="55.5,29,0" Rotation="5.7595" Scale="1,1,1" UnitType="TownWallRadial7L2" Player="11">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="531" Position="102,82,0" Rotation="4.4807" Scale="1,1,1" UnitType="TownCannonTowerL3" Player="12">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1227" Position="135,65,0" Rotation="5.4978" Scale="1,1,1" UnitType="HallOfStormsLocationUnit" Player="12">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="698" Variation="3" Position="58,34,0" Rotation="1.3088" Scale="1,1,1" UnitType="TownGateL315BLUR" Player="11"/>
+    <ObjectUnit Id="40" Position="46,39,0" Rotation="0.8845" Scale="1,1,1" UnitType="TownTownHallL3" Player="11">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="711" Variation="9" Position="99.5,71,0" Rotation="2.8796" Scale="1,1,1" UnitType="TownWallRadial18L2" Player="12">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="700" Variation="1" Position="102,35,0" Rotation="4.974" Scale="1,1,1" UnitType="TownGateL315BRUL" Player="12"/>
+    <ObjectUnit Id="37" Position="59,38,0" Rotation="1.2797" Scale="1,1,1" UnitType="TownCannonTowerL3" Player="11">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="673" Variation="3" Position="101,78,0" Rotation="1.3088" Scale="1,1,1" UnitType="TownGateL315BLUR" Player="12"/>
+    <ObjectUnit Id="2031696168" Position="80,58.49,0" Rotation="3.1413" Scale="1,1,1" UnitType="LootBannerSconce"/>
+    <ObjectUnit Id="803" Position="59,34,0" Rotation="1.8833" Scale="1,1,1" UnitType="StormGameStartPathingBlocker"/>
+    <ObjectUnit Id="835" Position="59,78,0" Rotation="4.974" Scale="1,1,1" UnitType="TownGateL315BRUL" Player="11"/>
+    <ObjectUnit Id="830" Position="101,80,0" Rotation="2.787" Scale="1,1,1" UnitType="StormGameStartPathingBlocker"/>
+    <ObjectUnit Id="1543" Position="112,76,0" Rotation="4.4514" Scale="1,1,1" UnitType="TownTownHallL3" Player="12">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="749" Variation="17" Position="101.5,41,0" Rotation="3.1413" Scale="1,1,1" UnitType="TownWallRadial17L2" Player="12">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="725" Variation="6" Position="60.5,71,0" Scale="1,1,1" UnitType="TownWallRadial5L2" Player="11">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="189" Position="42.5,29.5,0" Rotation="0.7844" Scale="1,1,1" UnitType="TownMoonwellL2" Player="11"/>
+    <ObjectUnit Id="702" Variation="16" Position="58.5,41,0" Rotation="6.0212" Scale="1,1,1" UnitType="TownWallRadial6L2" Player="11">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="39" Position="103,31,0" Rotation="5.0024" Scale="1,1,1" UnitType="TownCannonTowerL3" Player="12">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="712" Variation="9" Position="104.5,29,0" Rotation="3.4033" Scale="1,1,1" UnitType="TownWallRadial16L2" Player="12">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="154" Position="36,54,0" Rotation="0.7851" Scale="1,1,1" UnitType="KingsCore" Player="11">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="828" Position="60,78,0" Rotation="1.8833" Scale="1,1,1" UnitType="StormGameStartPathingBlocker"/>
+    <ObjectUnit Id="308" Position="58,82,0" Rotation="1.8017" Scale="1,1,1" UnitType="TownCannonTowerL3" Player="11">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1226" Position="25,65,0" Rotation="0.7851" Scale="1,1,1" UnitType="HallOfStormsLocationUnit" Player="11">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="827" Position="59,80,0" Rotation="3.4968" Scale="1,1,1" UnitType="StormGameStartPathingBlocker"/>
+    <ObjectUnit Id="530" Position="60,74,0" Rotation="1.8166" Scale="1,1,1" UnitType="TownCannonTowerL3" Player="11">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="806" Position="58,32,0" Rotation="1.0434" Scale="1,1,1" UnitType="StormGameStartPathingBlocker">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1811967005" Position="116.5,81.5,0" Rotation="5.4982" Scale="1,1,1" UnitType="TownMoonwellL2" Player="12"/>
+    <ObjectUnit Id="2044674913" Position="48,76,0" Rotation="1.8308" Scale="1,1,1" UnitType="TownTownHallL3" Player="11">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="804" Position="101,34,0" Rotation="4.3994" Scale="1,1,1" UnitType="StormGameStartPathingBlocker"/>
+    <ObjectUnit Id="110" Position="57,31,0" Rotation="1.28" Scale="1,1,1" UnitType="TownCannonTowerL3" Player="11">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="815" Position="102,32,0" Rotation="5.2395" Scale="1,1,1" UnitType="StormGameStartPathingBlocker">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="1437130894" Position="43.5,81.5,0" Rotation="0.7846" Scale="1,1,1" UnitType="TownMoonwellL2" Player="11"/>
+    <ObjectUnit Id="831" Position="100,78,0" Rotation="4.4001" Scale="1,1,1" UnitType="StormGameStartPathingBlocker"/>
+    <ObjectUnit Id="704" Position="101,36,0" Rotation="2.7861" Scale="1,1,1" UnitType="StormGameStartPathingBlocker"/>
+    <ObjectUnit Id="190" Position="117.5,29.5,0" Rotation="5.4985" Scale="1,1,1" UnitType="TownMoonwellL2" Player="12"/>
+    <ObjectUnit Id="832" Position="100,76,0" Rotation="5.2395" Scale="1,1,1" UnitType="StormGameStartPathingBlocker">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="750" Position="101,38,0" Rotation="5.003" Scale="1,1,1" UnitType="TownCannonTowerL3" Player="12">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="829" Position="60,76,0" Rotation="1.0432" Scale="1,1,1" UnitType="StormGameStartPathingBlocker">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="532" Position="100,74,0" Rotation="4.4658" Scale="1,1,1" UnitType="TownCannonTowerL3" Player="12">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="724" Variation="16" Position="56.5,84,0" Rotation="0.2617" Scale="1,1,1" UnitType="TownWallRadial4L2" Player="11">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="918" Position="124,54,0" Rotation="5.4978" Scale="1,1,1" UnitType="KingsCore" Player="12">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="713" Variation="17" Position="103.5,84,0" Rotation="2.618" Scale="1,1,1" UnitType="TownWallRadial19L2" Player="12">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="703" Position="59,36,0" Rotation="3.4968" Scale="1,1,1" UnitType="StormGameStartPathingBlocker"/>
+    <ObjectUnit Id="188" Position="114,39,0" Rotation="5.3984" Scale="1,1,1" UnitType="TownTownHallL3" Player="12">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+</PlacedObjects>

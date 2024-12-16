@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Catalog>
+    <CTerrain id="StormKingsCrestRavenCourt">
+        <DoubleLambert value="0"/>
+        <BlendTextures index="2" value="storm_winterravencourt_3"/>
+        <BlendTextures index="4" value="Storm_WinterDocks_2"/>
+        <BlendTextures index="6" value="storm_winterravencourt_7"/>
+        <BlendTextures index="7" value="storm_winterravencourt_6"/>
+    </CTerrain>
+</Catalog>

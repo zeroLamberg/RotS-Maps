@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Catalog>
+    <CTerrainTex id="Storm_WinterDocks_2">
+        <Texture value="assets\textures\storm_alterac_5.dds"/>
+        <Normalmap value="assets\textures\storm_alterac_5normal.dds"/>
+        <HeightMapScale value="1.000000"/>
+    </CTerrainTex>
+    <CTerrainTex id="storm_winterravencourt_6">
+        <Texture value="assets\textures\storm_alterac_6.dds"/>
+        <Normalmap value="assets\textures\storm_alterac_6normal.dds"/>
+        <HeightMapOffset value="0.010000"/>
+        <HeightMapScale value="1.000000"/>
+    </CTerrainTex>
+</Catalog>

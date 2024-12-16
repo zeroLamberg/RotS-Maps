@@ -1,0 +1,5 @@
+﻿Actor/Name/Storm_Doodad_KingsCrest_RavenCourt_CoreRange=Storm_Doodad_KingsCrest_RavenCourt_CoreRange
+Actor/Name/UnknownActor=Unknown Actor
+Light/Name/CustomLight=CustomLight
+Model/Name/Storm_Doodad_KingsCrest_RavenCourt_CoreRange=Storm_Doodad_KingsCrest_RavenCourt_CoreRange
+Sound/Name/LoadingMusic_OLDCursedHollow=LoadingMusic_OLDCursedHollow

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CUnit id="KingsCore">
+        <BehaviorArray Link="CursedHollowCoreCurse@CarryBehavior"/>
+    </CUnit>
+    <CUnit id="XelNagaWatchTower">
+        <Sight value="17"/>
+    </CUnit>
+</Catalog>

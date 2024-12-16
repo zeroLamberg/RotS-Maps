@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Preload>
+<Actor id="SYSTEM_ActorConfig"/>
+<Actor id="Storm_Doodad_KingsCrest_CurbStone" Variations="0,1,2,3,4,5"/>
+<Actor id="Storm_Doodad_Kingscrest_Gardens_CorePlatform"/>
+<Actor id="Storm_Doodad_KingsCrest_Gardens_CoreRange" Variations="0,1"/>
+<Actor id="Storm_Doodad_KingsCrest_Gardens_Obelisk_Overgrown" Variations="0,1,3"/>
+<Actor id="Storm_Doodad_KingsCrest_Gardens_Tree" Variations="0,1,2,3,4,5,6,7"/>
+<Actor id="Storm_Doodad_CyberWorld_Curtain" Variations="3"/>
+<Actor id="Storm_Doodad_CyberWorld_CurtainLarge" Variations="0,1"/>
+<Actor id="Storm_Doodad_KingsCrest_Campfire" Variations="1"/>
+<Actor id="Storm_Doodad_KingsCrest_Pillars" Variations="0"/>
+<Actor id="Storm_Doodad_KingsCrest_StartingPlatform"/>
+<Actor id="Storm_Doodad_KingsCrest_Bushes" Variations="0"/>
+<Actor id="Storm_Doodad_KingsCrest_Flowers" Variations="1,2,4"/>
+<Actor id="Storm_Doodad_KingsCrest_ChiseledRock_Mine" Variations="3,4,7,9"/>
+<Actor id="Storm_Doodad_KingsCrest_GardenBush" Variations="0,1,2,3,4,5,6,7,8,9,10,11"/>
+<Terrain id="StormKingsCrestGardens"/>
+<Unit id="TownTownHallL3"/>
+<Unit id="TownMoonwellL2"/>
+<Unit id="StormGameStartPathingBlocker"/>
+<Unit id="WizardMinion"/>
+<Unit id="FootmanMinion"/>
+<Unit id="CatapultMinion"/>
+<Unit id="TownGateL315BRUL" Variations="0,1"/>
+<Unit id="TownGateL315BLUR" Variations="3"/>
+<Unit id="LootBannerSconce"/>
+<Unit id="RangedMinion"/>
+<Unit id="KingsCore"/>
+<Unit id="TownCannonTowerL3"/>
+<Unit id="HallOfStormsLocationUnit"/>
+<Unit id="TownWallRadial4L2" Variations="16"/>
+<Unit id="TownWallRadial5L2" Variations="6"/>
+<Unit id="TownWallRadial6L2" Variations="16"/>
+<Unit id="TownWallRadial7L2" Variations="17"/>
+<Unit id="TownWallRadial16L2" Variations="9"/>
+<Unit id="TownWallRadial17L2" Variations="17"/>
+<Unit id="TownWallRadial18L2" Variations="9"/>
+<Unit id="TownWallRadial19L2" Variations="17"/>
+</Preload>

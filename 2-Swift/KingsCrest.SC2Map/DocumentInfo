@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocInfo>
+    <ModType>
+        <Value>Interface</Value>
+    </ModType>
+    <Icon>
+        <Value>Storm_UI_Logo_ArcadeIcon.png</Value>
+    </Icon>
+    <Dependencies>
+        <Value>bnet:RotS (Data)/0.0/328304,file:Mods\Resurgence of the Storm\Data.SC2Mod</Value>
+    </Dependencies>
+</DocInfo>

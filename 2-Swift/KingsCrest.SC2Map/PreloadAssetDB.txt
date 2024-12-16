@@ -1,0 +1,8 @@
+[Terrain]
+id=StormKingsCrestGardens
+path=Assets\Textures\.dds
+asset=Creep,CreepEdgeNormal_ex2,CreepHeight,CreepNoise,CreepSpecularMask
+Actor=CommandUIHarnessAttackProtoss,CommandUIHarnessAttackTerran,CommandUIHarnessAttackZerg,CommandUIHarnessMoveProtoss,CommandUIHarnessMoveTerran,CommandUIHarnessMoveZerg,TerrainMgr
+Light=StormKingsCrestALL
+TerrainTex=StormCastleWorld1,StormCastleWorld3,StormCastleWorld4,StormCastleWorld5,StormCastleWorld7,StormCastleWorld8,StormCyberWorld8,storm_docks_5
+

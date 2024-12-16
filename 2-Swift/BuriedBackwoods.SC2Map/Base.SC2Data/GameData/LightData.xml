@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CLight id="CustomLight" parent="default">
+        <ToDInfoArray index="0" Id="CustomLight" AmbientColor="0.396078,0.356863,0.188235">
+            <Param index="HDRExposure" value="1.550000"/>
+            <Param index="HDRBloomThreshold" value="0.850000"/>
+            <Param index="HDRAmbientMultiplier" value="1.560000"/>
+            <Param index="TerrainHDRDiffuse" value="1.050000"/>
+            <Param index="CreepSpecularExp" value="32.900002"/>
+            <Param index="ColorizationInputLow" value="0.024000"/>
+            <Param index="ColorizationInputGamma" value="1.008000"/>
+            <Param index="ColorizationOutputLow" value="0.011000"/>
+            <Param index="ColorizationBrightness" value="1.133000"/>
+            <Param index="ColorizationSaturation" value="0.026000"/>
+            <Param index="ColorizationBlend" value="0.247000"/>
+            <DirectionalLight index="Key" Direction="-0.563020,0.492643,-0.663560"/>
+            <DirectionalLight index="Fill" Color="0.462745,0.549020,0.694118"/>
+            <DirectionalLight index="Back" Color="0.709804,0.572549,0.450980"/>
+            <Variations Command="MoreBlue" Sensitivity="1"/>
+            <Variations Command="MoreYellow" Sensitivity="1" Region="Midtone"/>
+            <Variations Command="Darker" Sensitivity="1" Region="Highlight"/>
+            <Variations Command="MoreSaturation" Sensitivity="1" Region="Highlight"/>
+            <Variations Command="MoreBlue" Sensitivity="1"/>
+            <Variations Command="MoreBlue" Sensitivity="1"/>
+            <Variations Command="MoreBlue" Sensitivity="1"/>
+        </ToDInfoArray>
+        <ToDInfoArray Id="CustomLight" AmbientColor="0.396078,0.356863,0.188235">
+            <Param index="HDRExposure" value="1.550000"/>
+            <Param index="HDRBloomThreshold" value="0.850000"/>
+            <Param index="HDRAmbientMultiplier" value="1.560000"/>
+            <Param index="TerrainHDRDiffuse" value="1.050000"/>
+            <Param index="CreepSpecularExp" value="32.900002"/>
+            <Param index="ColorizationInputLow" value="0.024000"/>
+            <Param index="ColorizationInputGamma" value="1.008000"/>
+            <Param index="ColorizationOutputLow" value="0.011000"/>
+            <Param index="ColorizationBrightness" value="1.133000"/>
+            <Param index="ColorizationSaturation" value="0.026000"/>
+            <Param index="ColorizationBlend" value="0.247000"/>
+            <DirectionalLight index="Key" Direction="-0.563020,0.492643,-0.663560"/>
+            <DirectionalLight index="Fill" Color="0.462745,0.549020,0.694118"/>
+            <DirectionalLight index="Back" Color="0.709804,0.572549,0.450980"/>
+            <Variations Command="MoreBlue" Sensitivity="1"/>
+            <Variations Command="MoreYellow" Sensitivity="1" Region="Midtone"/>
+            <Variations Command="Darker" Sensitivity="1" Region="Highlight"/>
+            <Variations Command="MoreSaturation" Sensitivity="1" Region="Highlight"/>
+            <Variations Command="MoreBlue" Sensitivity="1"/>
+            <Variations Command="MoreBlue" Sensitivity="1"/>
+            <Variations Command="MoreBlue" Sensitivity="1"/>
+        </ToDInfoArray>
+        <ToDInfoArray Id="CustomLight" AmbientColor="0.396078,0.356863,0.188235">
+            <Param index="HDRExposure" value="1.550000"/>
+            <Param index="HDRBloomThreshold" value="0.850000"/>
+            <Param index="HDRAmbientMultiplier" value="1.560000"/>
+            <Param index="TerrainHDRDiffuse" value="1.050000"/>
+            <Param index="CreepSpecularExp" value="32.900002"/>
+            <Param index="ColorizationInputLow" value="0.024000"/>
+            <Param index="ColorizationInputGamma" value="1.008000"/>
+            <Param index="ColorizationOutputLow" value="0.011000"/>
+            <Param index="ColorizationBrightness" value="1.133000"/>
+            <Param index="ColorizationSaturation" value="0.026000"/>
+            <Param index="ColorizationBlend" value="0.247000"/>
+            <DirectionalLight index="Key" Direction="-0.563020,0.492643,-0.663560"/>
+            <DirectionalLight index="Fill" Color="0.462745,0.549020,0.694118"/>
+            <DirectionalLight index="Back" Color="0.709804,0.572549,0.450980"/>
+            <Variations Command="MoreBlue" Sensitivity="1"/>
+            <Variations Command="MoreYellow" Sensitivity="1" Region="Midtone"/>
+            <Variations Command="Darker" Sensitivity="1" Region="Highlight"/>
+            <Variations Command="MoreSaturation" Sensitivity="1" Region="Highlight"/>
+            <Variations Command="MoreBlue" Sensitivity="1"/>
+            <Variations Command="MoreBlue" Sensitivity="1"/>
+            <Variations Command="MoreBlue" Sensitivity="1"/>
+        </ToDInfoArray>
+    </CLight>
+    <CLight id="StormRavenCourtFinal">
+        <ToDInfoArray index="1" Id="StormRavenCourtFinal" AmbientColor="0.337255,0.317647,0.203922">
+            <Param index="HDRExposure" value="2.525000"/>
+            <Param index="HDRBloomThreshold" value="6.675000"/>
+            <Param index="HDRAmbientMultiplier" value="1.560000"/>
+            <Param index="ColorizationInputLow" value="0.024000"/>
+            <Param index="ColorizationInputGamma" value="1.008000"/>
+            <Param index="ColorizationBrightness" value="1.133000"/>
+            <Param index="ColorizationContrast" value="1.089000"/>
+            <Param index="ColorizationSaturation" value="0.026000"/>
+            <DirectionalLight index="Key" Direction="-0.563020,0.492643,-0.663560"/>
+            <DirectionalLight index="Fill" Color="0.462745,0.549020,0.694118"/>
+            <DirectionalLight index="Back" Color="0.709804,0.572549,0.450980"/>
+            <Variations Command="MoreBlue" Sensitivity="1"/>
+            <Variations Command="MoreYellow" Sensitivity="1" Region="Midtone"/>
+            <Variations Command="Darker" Sensitivity="1" Region="Highlight"/>
+            <Variations Command="MoreSaturation" Sensitivity="1" Region="Highlight"/>
+            <Variations Command="MoreBlue" Sensitivity="1"/>
+            <Variations Command="MoreBlue" Sensitivity="1"/>
+            <Variations Command="MoreBlue" Sensitivity="1"/>
+        </ToDInfoArray>
+        <ToDInfoArray Id="StormRavenCourtFinal" AmbientColor="0.337255,0.317647,0.203922">
+            <Param index="HDRExposure" value="2.525000"/>
+            <Param index="HDRBloomThreshold" value="6.675000"/>
+            <Param index="ColorizationBrightness" value="1.133000"/>
+            <Param index="ColorizationContrast" value="1.089000"/>
+            <Param index="ColorizationSaturation" value="0.026000"/>
+            <DirectionalLight index="Key" Direction="-0.563020,0.492643,-0.663560"/>
+            <DirectionalLight index="Fill" Color="0.462745,0.549020,0.694118"/>
+            <DirectionalLight index="Back" Color="0.709804,0.572549,0.450980"/>
+            <Variations Command="MoreBlue" Sensitivity="1"/>
+            <Variations Command="MoreYellow" Sensitivity="1" Region="Midtone"/>
+            <Variations Command="Darker" Sensitivity="1" Region="Highlight"/>
+            <Variations Command="MoreSaturation" Sensitivity="1" Region="Highlight"/>
+            <Variations Command="MoreBlue" Sensitivity="1"/>
+            <Variations Command="MoreBlue" Sensitivity="1"/>
+            <Variations Command="MoreBlue" Sensitivity="1"/>
+        </ToDInfoArray>
+    </CLight>
+</Catalog>

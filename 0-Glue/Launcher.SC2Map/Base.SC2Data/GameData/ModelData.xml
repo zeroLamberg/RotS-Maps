@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CModel id="testmodel" parent="Unit">
+        <Model value="Mei model.m3"/>
+        <RequiredAnims value="storm_hero_meiow_requiredanims_2.m3a"/>
+    </CModel>
+</Catalog>

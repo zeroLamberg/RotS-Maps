@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CModel id="CurseofEluneBuilding">
+        <Model value="Assets\Effects\Storm_FX_SnowBrawl_Cursed_Icon\Storm_FX_SnowBrawl_Cursed_Icon.m3"/>
+    </CModel>
+    <CModel id="CurseofEluneUnits">
+        <Model value="Assets\Effects\Storm_FX_SnowBrawl_Cursed_Icon\Storm_FX_SnowBrawl_Cursed_Icon.m3"/>
+    </CModel>
+    <CModel id="RavenLordTribute">
+        <Model value="Assets\Effects\Storm_FX_SnowBrawl_Cursed_Icon\Storm_FX_SnowBrawl_Cursed_Icon.m3"/>
+        <SelectionRadius value="0.500000"/>
+    </CModel>
+</Catalog>

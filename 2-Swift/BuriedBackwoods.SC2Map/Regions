@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Regions>
+    <region id="18">
+        <name value="2B_Lane 1 - Order"/>
+        <invisible/>
+        <shape type="rect">
+            <quad value="50.545,43.1384,72.4328,73.716"/>
+        </shape>
+    </region>
+    <region id="19">
+        <name value="2B_Lane 1 - Chaos"/>
+        <color value="255,255,128,0"/>
+        <invisible/>
+        <shape type="rect">
+            <quad value="166.4482,43.8664,189.4455,71.5378"/>
+        </shape>
+    </region>
+    <region id="21">
+        <name value="2B_Playable"/>
+        <color value="255,128,128,255"/>
+        <invisible/>
+        <shape type="rect">
+            <quad value="6,11,153,101"/>
+        </shape>
+    </region>
+    <region id="64">
+        <name value="Order Repulsor and Heal Region"/>
+        <invisible/>
+        <shape type="diamond">
+            <center value="21.516,68.5346"/>
+            <width value="15.2038"/>
+            <height value="12.0197"/>
+        </shape>
+        <shape type="circle">
+            <center value="25.0947,64.825"/>
+            <radius value="3.0297"/>
+        </shape>
+    </region>
+    <region id="24">
+        <name value="Chaos Repulsor and Heal Region"/>
+        <color value="255,255,128,0"/>
+        <invisible/>
+        <shape type="diamond">
+            <center value="218.2607,68.1293"/>
+            <width value="12.378"/>
+            <height value="16.9675"/>
+        </shape>
+        <shape type="circle">
+            <center value="214.846,64.6003"/>
+            <radius value="3.0998"/>
+        </shape>
+    </region>
+    <region id="1">
+        <name value="ExploredRegion"/>
+        <color value="255,128,128,255"/>
+        <invisible/>
+        <shape type="rect">
+            <quad value="6,15,153,105"/>
+        </shape>
+    </region>
+    <region id="3">
+        <name value="Hard Camp Mid Leash Region"/>
+        <invisible/>
+        <shape type="rect">
+            <quad value="113.9003,40.572,126,53.437"/>
+        </shape>
+        <shape type="rect">
+            <quad value="108.8002,36.53,131.01,48.5695"/>
+        </shape>
+        <shape type="circle">
+            <center value="120.2014,52.9604"/>
+            <radius value="3.9016"/>
+        </shape>
+    </region>
+    <region id="8">
+        <name value="Left Easy Camp Top Leash Region"/>
+        <invisible/>
+        <shape type="rect">
+            <quad value="81.5373,74.7416,93.712,86.4775"/>
+        </shape>
+        <shape type="circle">
+            <center value="82.2072,82.215"/>
+            <radius value="4.2773"/>
+        </shape>
+        <shape type="circle">
+            <center value="93.5988,82.7741"/>
+            <radius value="3.7143"/>
+        </shape>
+    </region>
+    <region id="9">
+        <name value="Right Easy Camp Top Leash Region"/>
+        <invisible/>
+        <shape type="rect">
+            <quad value="146.311,74.9428,158.4855,86.6787"/>
+        </shape>
+        <shape type="circle">
+            <center value="157.8205,82.4106"/>
+            <radius value="4.275"/>
+        </shape>
+        <shape type="circle">
+            <center value="146.424,82.9753"/>
+            <radius value="3.7143"/>
+        </shape>
+    </region>
+    <region id="2">
+        <name value="Boss Camp Leash Region"/>
+        <shape type="rect">
+            <quad value="101.8198,18.65,138.0825,35.0998"/>
+        </shape>
+    </region>
+    <region id="10">
+        <name value="2B_Base Order Visible Region Order"/>
+        <invisible/>
+        <shape type="circle">
+            <center value="60.636,62.385"/>
+            <radius value="8.7333"/>
+        </shape>
+        <shape type="circle">
+            <center value="62.7897,51.0417"/>
+            <radius value="9.4514"/>
+        </shape>
+        <shape type="rect">
+            <quad value="19.9943,39.8613,65.3061,69.1811"/>
+        </shape>
+        <shape type="circle">
+            <center value="38.7692,66.0673"/>
+            <radius value="10.341"/>
+        </shape>
+        <shape type="circle">
+            <center value="36.5803,40.4973"/>
+            <radius value="9.2604"/>
+        </shape>
+        <shape type="circle">
+            <center value="18.963,70.1447"/>
+            <radius value="13.1525"/>
+        </shape>
+        <shape type="circle">
+            <center value="16.304,54.758"/>
+            <radius value="7.8442"/>
+        </shape>
+    </region>
+    <region id="5">
+        <name value="2B_Base Chaos Visible Region Order"/>
+        <color value="255,255,128,64"/>
+        <invisible/>
+        <shape type="circle">
+            <center value="179.8774,62.1674"/>
+            <radius value="8.7333"/>
+        </shape>
+        <shape type="circle">
+            <center value="177.7236,50.8242"/>
+            <radius value="9.4514"/>
+        </shape>
+        <shape type="rect">
+            <quad value="175.2072,39.6437,220.519,68.9636"/>
+        </shape>
+        <shape type="circle">
+            <center value="201.7441,65.8498"/>
+            <radius value="10.341"/>
+        </shape>
+        <shape type="circle">
+            <center value="203.933,40.2797"/>
+            <radius value="9.2604"/>
+        </shape>
+        <shape type="circle">
+            <center value="221.5505,69.9272"/>
+            <radius value="13.1525"/>
+        </shape>
+        <shape type="circle">
+            <center value="222.3388,54.1474"/>
+            <radius value="7.8442"/>
+        </shape>
+    </region>
+    <region id="7">
+        <name value="2C_Lane 1 - Chaos"/>
+        <invisible/>
+        <shape type="rect">
+            <quad value="135.3212,46.6315,166.3964,73.6481"/>
+        </shape>
+        <shape type="rect">
+            <quad value="131.3232,79.679,137.5014,95.0366"/>
+        </shape>
+    </region>
+    <region id="4">
+        <name value="2C_Lane 1 - Order"/>
+        <invisible/>
+        <shape type="rect">
+            <quad value="72.5051,46.5781,104.4177,73.6491"/>
+        </shape>
+        <shape type="rect">
+            <quad value="101.5585,79.6516,107.7368,95.0092"/>
+        </shape>
+    </region>
+</Regions>
